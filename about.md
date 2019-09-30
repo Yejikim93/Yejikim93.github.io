@@ -10,7 +10,7 @@ header-img: img/share_img.PNG
 ---
 
 # GIST 
-### Design Spectrum의 팟캐스트 Design Table
+## Design Spectrum의 팟캐스트 Design Table
 
 - Design Table Ep 19. `끊임없이 배우는 디자이너`
 - 들을 수 있는 곳: [iTunes](http://itun.es/kr/i6TOib.c) / [팟빵](http://www.podbbang.com/ch/13590) / [Podty](https://www.podty.me/cast/174282)
