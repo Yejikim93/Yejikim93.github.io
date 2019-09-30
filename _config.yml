@@ -4,7 +4,7 @@ permalink:      /:year-:month-:day/:title
 # Setup
 title:          Jihye Leee
 baseurl:        ""
-url:            "http://www.jihyeleee.com"
+url:            "https://yejikim93.github.io"
 
 # Assets
 sass:
@@ -16,8 +16,8 @@ markdown:       kramdown
 
 # About
 author:
-  name:         Jihye Leee
-  url:          http://jihyeleee.com/
+  name:         Yeji Kim
+  url:          https://yejikim93.github.io/
   email:        iam.leejihye@gmail.com  
   github:       iamleejihye
   twitter:      playpingpong
