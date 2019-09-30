@@ -9,21 +9,21 @@
         <div class="nav-container">
             <ul>
                 <li class="transition">
-                    <a href="{{ '/about' | prepend: site.baseurl }}/" {% if current[1] == "about"  or current[1] == "blog" or current[1] == "book" or current[1] == "project" %} class="nomal"{% endif %}>Home</a>
-              </li>
-                <li class="transition">
-                    <a href="{{ '/project' | prepend: site.baseurl }}" {% if current[1] == "project" %} class="nomal"{% endif %} >Project</a>
-                </li>
-                <li class="transition">
-                    <a href="{{ '/blog' | prepend: site.baseurl }}" {% if current[1] == "blog" %} class="nomal"{% endif %} >Blog</a>
-                </li>
-                <li class="transition">
-                    <a href="{{ '/book' | prepend: site.baseurl }}" {% if current[1] == "book" %} class="nomal"{% endif %} >Book</a>
-                </li>
-                <li class="transition">
-                    <a href="{{ '' | prepend: site.baseurl }}" % if current[1] == "about" %} class="nomal"{{% endif %} >About</a>
+                    <a href="{{ '/about' | prepend: site.baseurl }}"{% if current[1] == "project" %} class="active"{% endif %} >Home</a>
                 </li>
               
+                <li class="transition">
+                    <a href="{{ '/project' | prepend: site.baseurl }}" {% if current[1] == "project" %} class="active"{% endif %} >Project</a>
+                </li>
+                <li class="transition">
+                    <a href="{{ '/blog' | prepend: site.baseurl }}" {% if current[1] == "blog" %} class="active"{% endif %} >Blog</a>
+                </li>
+                <li class="transition">
+                    <a href="{{ '/book' | prepend: site.baseurl }}" {% if current[1] == "book" %} class="active"{% endif %} >Book</a>
+                </li>
+               <li class="transition">
+                    < a href="{{ '' | prepend: site.baseurl }}" {% if current[1] == "about" %} class="active"{% endif %} >About</a>
+                </li>
             </ul>
         </div>
       </nav>
