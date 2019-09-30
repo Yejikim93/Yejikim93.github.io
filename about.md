@@ -1,17 +1,15 @@
 ---
 layout: post
-title: "Jihye Leee"
-subtitle: "이지혜"
+title: "Yeji Kim"
+subtitle: "김예지"
 type: "About"
-author: "Jihye Lee"
+author: "Yeji Kim"
 permalink: /about/
 post-header: true
-header-img: img/about.jpg
+header-img: img/share_img.PNG
 ---
 
-UX 에이전시 GUI 디자이너를 거쳐 현재는 RIDI에서 프로덕트 디자이너로 5년째 근무 중이다. 디자이너에게 코딩을 알려주는 코딩하는 디자이너라는 프로그램을 운영하고 브랜딩하기도 했다. 더 좋은 디자인 팀 만들기와 디자이너의 글쓰기에 관심이 많다.
-
-# Media
+# GIST 
 ### Design Spectrum의 팟캐스트 Design Table
 
 - Design Table Ep 19. `끊임없이 배우는 디자이너`
