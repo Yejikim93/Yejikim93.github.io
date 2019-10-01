@@ -2,7 +2,7 @@
 layout: post
 title: "Yeji Kim"
 subtitle: "김예지"
-type: "About"
+type: ""
 author: "Yeji Kim"
 permalink: /about/
 post-header: true
