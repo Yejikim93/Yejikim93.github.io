@@ -11,9 +11,9 @@ portfolio: true
 post-header: true
 header-img: "img/project1_spacer.PNG"
 main-img: "img/project1_spacer.PNG"
-role-title: "프로덕트 디자이너"
-role-specific: "User flows, Sketching, Wireframing, Visual Design, Interaction, Prototyping"
-team: "Numan Yanar, YangEun Mok, Moon Son, Yeji Kim, Heechul Choi"
+role-title: "Assistant"
+role-specific: ""
+team: "Numan Yanar, Moon Son, Eunmok Yang, Yeji Kim, Hosik Park, Seung-Eun Man, Heechul Choii"
 platforms: "3D printer"
 date: "Jan 2017-Jan 2018"
 order: 2
@@ -29,3 +29,7 @@ This research was performed using acrylonitrile butadiene styrene (ABS), polypro
  To design the 3D spacer model, Autodesk Meshmixer and Blender were used as CAD software with spacer dimensions of 45 mm × 55 mm × 0.86 mm (34 mil; Fig. 2(a)). 
 
 The spacer model was designed by using a diamond-shaped commercial membrane feed spacer (made of PP) manufactured by Hydration Technologies Innovation (HTI; Albany, USA) as a reference (Fig. 2(b)).
+
+##Reference 
+
+Numan Yanar, Moon Son, Eunmok Yang, Yeji Kim, Hosik Park, Seung-Eun Man, Heechul Choi (2018) , Investigation of the performance behavior of a forward osmosis membrane system using various feed spacer materials fabricated by 3D printing technique, Chemosphere, 202, 708-715 
