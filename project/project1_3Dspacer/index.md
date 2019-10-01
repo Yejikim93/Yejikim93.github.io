@@ -20,3 +20,12 @@ order: 2
 ---
 
 This research was performed using acrylonitrile butadiene styrene (ABS), polypropylene (PP), and natural polylactic acid (PLA) as printing material, and the spacer model was produced using a diamond-shaped feed spacer, with a commercially available product as a reference.
+
+
+#  3D spacer model
+
+![project1_3Dspacer](img/spacer_photo.jpg)
+ 
+ To design the 3D spacer model, Autodesk Meshmixer and Blender were used as CAD software with spacer dimensions of 45 mm × 55 mm × 0.86 mm (34 mil; Fig. 2(a)). 
+
+The spacer model was designed by using a diamond-shaped commercial membrane feed spacer (made of PP) manufactured by Hydration Technologies Innovation (HTI; Albany, USA) as a reference (Fig. 2(b)).
