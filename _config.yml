@@ -2,7 +2,7 @@
 permalink:      /:year-:month-:day/:title
 
 # Setup
-title:          Jihye Leee
+title:          Yejikim
 baseurl:        ""
 url:            "https://yejikim93.github.io"
 
@@ -18,8 +18,8 @@ markdown:       kramdown
 author:
   name:         Yeji Kim
   url:          https://yejikim93.github.io/
-  email:        iam.leejihye@gmail.com  
-  github:       iamleejihye
+  email:        yz6242@gmail.com
+  github:       yejikim93
   twitter:      playpingpong
 
 # Custom vars
