@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Yeji Kim"
-subtitle: "김예지"
+subtitle: ""
 type: ""
-author: "Yeji Kim"
+author: ""
 permalink: /about/
 post-header: true
 header-img: img/header_img.PNG
