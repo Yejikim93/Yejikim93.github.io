@@ -1,10 +1,10 @@
 fifth-place:
-- name: Gwangu Institue of Technology (GIST)
+- name: Gwangu Institute of Science and Technology (GIST)
   role: Researcher for GIST technology institue
   date: 2019. SEP - Present
 
 forth-place:
-- name: Korea Advanced Institute of Science and Technology
+- name: Korea Advanced Institute of Science and Technology (KAIST)
   role: Researcher 
   date: 2019. JUN - SEP
 
@@ -14,7 +14,7 @@ third-place:
   date: 2019. MAR - JUN
 
 second-place:
-- name: Gwangu Institue of Technology (GIST)
+- name: Gwangu Institute of Science and Technology (GIST)
   role: Earth & Envrionmental Engineering (M.S)
   date: 2017. MAR - 2019. MAR
 
