@@ -13,7 +13,7 @@ header-img: "img/project1_spacer.PNG"
 main-img: "img/project1_spacer.PNG"
 role-title: "Assistant"
 role-specific: ""
-team: "Numan Yanar, Moon Son, Eunmok Yang, Yeji Kim, Hosik Park, Seung-Eun Man, Heechul Choii"
+team: "Numan Yanar, Moon Son, Eunmok Yang, Yeji Kim, Hosik Park, Seung-Eun Man, Heechul Choi"
 platforms: "3D printer"
 date: "Jan 2017-Jan 2018"
 order: 2
