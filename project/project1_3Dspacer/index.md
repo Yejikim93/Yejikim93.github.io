@@ -30,6 +30,6 @@ This research was performed using acrylonitrile butadiene styrene (ABS), polypro
 
 The spacer model was designed by using a diamond-shaped commercial membrane feed spacer (made of PP) manufactured by Hydration Technologies Innovation (HTI; Albany, USA) as a reference (Fig. 2(b)).
 
-##Reference 
+## Reference 
 
 Numan Yanar, Moon Son, Eunmok Yang, Yeji Kim, Hosik Park, Seung-Eun Man, Heechul Choi (2018) , Investigation of the performance behavior of a forward osmosis membrane system using various feed spacer materials fabricated by 3D printing technique, Chemosphere, 202, 708-715 
