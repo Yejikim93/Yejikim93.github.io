@@ -9,8 +9,8 @@ text: true
 ridi: true
 portfolio: true
 post-header: true
-header-img: "img/project2_CNT_membrane.png"
-main-img: "img/project2_CNT_membrane.png"
+header-img: "img/project3_Fitcare.png"
+main-img: "img/project3_Fitcare.png"
 role-title: "Developer"
 role-specific: "Front-end developer (Main position)"
 team: "Yeji Kim, Dohum Kim, Yoseoup Kim, UnYan Kim"
