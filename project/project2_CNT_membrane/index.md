@@ -16,16 +16,6 @@ role-specific: "Fabrication(TFN-CNT), Analysis(SEM, AFM, CLSM)"
 team: "Yeji Kim, Eunmok Yang, Hosik Park, Heechul Choi"
 platforms: "3D printer"
 date: "Jan 2018-Jan 2019"
-order: 2
+order: 3
 ---
-
-This research was performed using acrylonitrile butadiene styrene (ABS), polypropylene (PP), and natural polylactic acid (PLA) as printing material, and the spacer model was produced using a diamond-shaped feed spacer, with a commercially available product as a reference.
-
-
-#  3D spacer model
-
-![project1_3Dspacer](img/spacer_photo.jpg)
- 
- To design the 3D spacer model, Autodesk Meshmixer and Blender were used as CAD software with spacer dimensions of 45 mm × 55 mm × 0.86 mm (34 mil; Fig. 2(a)). 
-
-The spacer model was designed by using a diamond-shaped commercial membrane feed spacer (made of PP) manufactured by Hydration Technologies Innovation (HTI; Albany, USA) as a reference (Fig. 2(b)).
+In PRO process, bottom side of support layer of TFC membrane is face to feed solution which include high concentration of organic and microorganism. In this research, we focused on the analysis of anti-biofouling effect of thin film nanocomposite (TFN) membrane with functionalized carbon nanotubes blended polymeric support layer to determine the applicability of this membrane for pressure retarded osmosis (PRO) process. Anti-biofouling property of TFN membranes for PRO process are characterized by SEM, FTIR, Contact angle, AFM, and Zeta potential analysis of bottom side of support layer. Anti-biofouling effect of fabricated membrane for PRO process is analyzed by bacteria attachment test on bottom surface of support layer and biofouling test in cross-flow operation system with PRO mode (AL-DS). The TFN membrane with 0.5 wt% fCNT has enhanced anti-biofouling property of bottom surface of support layer compared to bare TFC membrane due to low roughness, high negative surface charge and hydrophilicity. Bacteria attachment on support layer of fCNT0.5-TFN membrane decreased 35% compared to bare TFC membrane. In lab scale biofouling test, fCNT0.5-TFN membrane shows less flux decline approximately 10% compared to bare TFC membrane in PRO mode.
