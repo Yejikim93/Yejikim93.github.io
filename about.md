@@ -6,7 +6,7 @@ type: "About"
 author: "Yeji Kim"
 permalink: /about/
 post-header: true
-header-img: img/home_img.png
+header-img: img/header_img.PNG
 ---
 
 # GIST 
