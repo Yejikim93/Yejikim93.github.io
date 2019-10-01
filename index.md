@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Yeji Kim"
+title: "About me"
 main: true
 subtitle: Digital Product Designer Jihye Leee at RIDI
 description: YEJI KIM, RESEARCHER OF GIST INSTITUE OF TECHNOLOGY IN SOUTH KOREA. | 
