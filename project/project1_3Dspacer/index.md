@@ -9,8 +9,8 @@ text: true
 ridi: true
 portfolio: true
 post-header: true
-header-img: "img/card.jpg"
-main-img: "img/ridi-highlight.jpg"
+header-img: "img/project1_spacer.jpg"
+main-img: "img/project1_spacer.jpg"
 role-title: "프로덕트 디자이너"
 role-specific: "User flows, Sketching, Wireframing, Visual Design, Interaction, Prototyping"
 team: "Numan Yanar, YangEun Mok, Moon Son, Yeji Kim, Heechul Choi"
