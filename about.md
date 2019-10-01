@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Yeji Kim"
-subtitle: ""
+title: "Yeji Kim's blog"
+subtitle: "Welcome to visit !"
 type: ""
 author: ""
 permalink: /about/
@@ -9,7 +9,6 @@ post-header: true
 header-img: img/header_img.PNG
 ---
 
-# GIST 
 ## Design Spectrum의 팟캐스트 Design Table
 
 - Design Table Ep 19. `끊임없이 배우는 디자이너`
