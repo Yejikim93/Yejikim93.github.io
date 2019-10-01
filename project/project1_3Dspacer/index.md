@@ -3,7 +3,7 @@ layout: post
 author: "Yeji Kim"
 title:  "3D printed Spacers"
 subtitle: "마음에 드는 전자책 속 문장을 멋지게 공유하는 방법"
-type: "Compelete"
+type: "Compeleted"
 projects: true
 text: true
 ridi: true
