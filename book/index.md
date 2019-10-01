@@ -3,7 +3,7 @@ layout: default
 work: true
 main: true
 title: Life
-description: about my life!
+description: About my life!
 project-header: true
 header-img: "img/project_bg.jpg"
 ---
