@@ -1,7 +1,7 @@
 - name: Android
 - name: Arduino
 - name: Firebase
-- name: Phython
+- name: Python
 - name: Pandas
 - name: QGIS
 - name: SigmaPlot
