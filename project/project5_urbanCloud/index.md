@@ -9,7 +9,7 @@ text: true
 ridi: true
 portfolio: true
 post-header: true
-header-img: "project5_UrbanCloud.png"
+header-img: "img/project5_UrbanCloud.png"
 main-img: "img/project5_UrbanCloud.png"
 role-title: "Team member"
 role-specific: "Data platform"
