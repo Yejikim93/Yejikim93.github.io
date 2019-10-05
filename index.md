@@ -25,6 +25,6 @@ description: YEJI KIM, RESEARCHER OF GIST INSTITUE OF TECHNOLOGY IN SOUTH KOREA.
 
 </br>
 
-  ![photo](img/yeji_photo.png)
+  ![photo](img/yejikim_photo.png)
   
 {% include resume.html %}
