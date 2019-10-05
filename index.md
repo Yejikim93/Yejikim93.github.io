@@ -19,6 +19,7 @@ description: YEJI KIM, RESEARCHER OF GIST INSTITUE OF TECHNOLOGY IN SOUTH KOREA.
         </div>.
     </h1>
     <h2 class="intro">'김예지' 광주과학기술원 소속 연구원 입니다.</h2>
+    ![photo](./img/yeji_photo.png)
 </section>
 </div>
 {% include resume.html %}
