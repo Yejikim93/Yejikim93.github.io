@@ -1,15 +1,3 @@
----
-layout: post
-title:  "본격적으로 Jekyll Theme 커스터마이징하기"
-subtitle: "디자이너도 만드는 Jekyll Blog - 3편"
-type: "Development"
-blog: true
-text: true
-author: "Jihye Leee"
-post-header: true
-header-img: "img/third_custom.jpg"
-order: 4
----
 
 [1편 - ‘비개발자에게 진입 장벽이 높은 Jekyll 설치하기’](www.jihyeleee.com/blog/designer-can-make-jekyll-blog/)
 
