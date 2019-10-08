@@ -2,7 +2,7 @@
 layout: post
 title:  "Arduino: Bluetooth sensor (HC-06)"
 subtitle: "HC-06 sensor"
-type: "Development"
+type: "Arduino"
 blog: true
 text: true
 author: "YejiKim"
