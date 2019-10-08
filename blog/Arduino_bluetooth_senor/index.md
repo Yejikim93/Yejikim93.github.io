@@ -22,7 +22,7 @@ order: 6
 
 
 # Connection 
-![BluetoothSensor](./img/Bluetooth_sensor.png) </p>
+![BluetoothSensor](./img/Bluetooth_sensor.PNG) </p>
 
 Arduino UNO----->HC-06 
 
