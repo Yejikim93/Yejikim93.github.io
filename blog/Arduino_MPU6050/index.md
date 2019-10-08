@@ -22,14 +22,14 @@ order: 5
 # Connection 
 ![AccGyrosensor](./img/AccGyrosensor.png) </p>
 
-Arduino UNO----->MPU6050 </p>
-`5V` --------------------> `VCC` </p>    
-`GND` -------------------> `GND` </p>   
-`A4` --------------------> `SCL` </p>   
-`A5` --------------------> `SDA` </p>  
+Arduino UNO----->MPU6050 
+
+`5V` --------------------> `VCC`     
+`GND` -------------------> `GND`   
+`A4` --------------------> `SCL`   
+`A5` --------------------> `SDA` 
 
 # Code 
-
     #include <Wire.h> 
 
     const int MPU=0x68;//MPU6050 I2C Address  
@@ -38,48 +38,48 @@ Arduino UNO----->MPU6050 </p>
     
     void setup(){ 
       
-       Wire.begin();
-       Wire.beginTransmission(MPU); 
-       Wire.write(0x6B); 
-       Wire.write(0);//MPU6050 -'Waiting action mode' 
-       Wire.endTransmission(true); 
+     Wire.begin();
+     Wire.beginTransmission(MPU); 
+     Wire.write(0x6B); 
+     Wire.write(0);//MPU6050 -'Waiting action mode' 
+     Wire.endTransmission(true); 
      } 
         
     void loop(){ 
     
-       get6050();//Update sensor data 
+    get6050();//Update sensor data 
       
-       //Print in Serial Monitor
-       Serial.println(Acx); // choose what I want to print <- AcX/AcY/AcZ/GyX/GyY/GyZ  
-      } 
+    //Print in Serial Monitor
+    Serial.println(Acx); // choose what I want to print <- AcX/AcY/AcZ/GyX/GyY/GyZ  
+    } 
       
-       delay(10); // delay time 
+    delay(10); // delay time 
     } 
       
     void get6050(){ 
-       Wire.beginTransmission(MPU);//MPU6050 호출  
+    Wire.beginTransmission(MPU);//MPU6050 호출  
       
-       Wire.write(0x3B);//AcX 레지스터 위치 요청
+    Wire.write(0x3B);//AcX 레지스터 위치 요청
       
-       Wire.endTransmission(false);
+    Wire.endTransmission(false);
       
-       Wire.requestFrom(MPU,14,true);//14byte의 데이터를 요청
+    Wire.requestFrom(MPU,14,true);//14byte의 데이터를 요청
       
-       AcX=Wire.read()<<8|Wire.read();//두개의 나뉘어진 바이트를 하나로 이어붙입니다.
+    AcX=Wire.read()<<8|Wire.read();//두개의 나뉘어진 바이트를 하나로 이어붙입니다.
       
-       AcY=Wire.read()<<8|Wire.read();
+    AcY=Wire.read()<<8|Wire.read();
       
-       AcZ=Wire.read()<<8|Wire.read();
+    AcZ=Wire.read()<<8|Wire.read();
       
-       Tmp=Wire.read()<<8|Wire.read();
+    Tmp=Wire.read()<<8|Wire.read();
       
-       GyX=Wire.read()<<8|Wire.read();
+    GyX=Wire.read()<<8|Wire.read();
       
-       GyY=Wire.read()<<8|Wire.read();
+    GyY=Wire.read()<<8|Wire.read();
       
-       GyZ=Wire.read()<<8|Wire.read();
+    GyZ=Wire.read()<<8|Wire.read();
       
-     }
+    }
        
 # Reference
 [http://www.makeshare.org/bbs/board.php?bo_table=arduinosensor&wr_id=47](http://www.makeshare.org/bbs/board.php?bo_table=arduinosensor&wr_id=47)
