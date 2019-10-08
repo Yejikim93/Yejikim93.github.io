@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Android: SQLite database)"
+title:  "Android: SQLite database"
 subtitle: "Application of SQLite database"
 type: "Android"
 blog: true
