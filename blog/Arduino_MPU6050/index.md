@@ -2,13 +2,13 @@
 layout: post
 title:  "Arduino: Accelerometer + Gyro sensor-MPU6050 (가속도&자이로 센서)"
 subtitle: "MPU6050 sensor"
-type: "Development"
+type: "Arduino"
 blog: true
 text: true
 author: "YejiKim"
 post-header: true
 header-img: "img/third_custom.jpg"
-order: 5
+order: 1
 ---
 
 
