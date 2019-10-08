@@ -1,15 +1,3 @@
----
-layout: post
-title:  "최근 읽은 콘텐츠 - 2018 August"
-subtitle: "합리적인 선택, Airbnb 비즈니스, 좋은 디자인 팀, GA, 생산성"
-type: "Archive"
-blog: true
-text: true
-author: "Jihye Leee"
-post-header: true
-header-img: "img/header.jpg"
-order: 6
----
 
 조금 늦게 올리는 최근 읽은 콘텐츠 8월 편!
 
