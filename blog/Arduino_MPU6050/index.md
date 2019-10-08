@@ -29,8 +29,7 @@ Arduino UNO----->MPU6050
 `A4` --------------------> `SCL`   
 `A5` --------------------> `SDA` 
 
-# Code 
-    
+# Code  
     #include <Wire.h> 
 
     const int MPU=0x68;//MPU6050 I2C Address  
