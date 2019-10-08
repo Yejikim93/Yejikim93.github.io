@@ -8,7 +8,7 @@ text: true
 author: "YejiKim"
 post-header: true
 header-img: "img/third_custom.jpg"
-order: 6
+order: 2
 ---
 
 
