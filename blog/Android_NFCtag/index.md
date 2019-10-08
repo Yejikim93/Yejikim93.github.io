@@ -8,7 +8,7 @@ text: true
 author: "YejiKim"
 post-header: true
 header-img: "img/third_custom.jpg"
-order: 2
+order: 3
 ---
 
 ##NFC tag
