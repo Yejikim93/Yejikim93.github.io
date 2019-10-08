@@ -1,15 +1,4 @@
----
-layout: post
-title:  "비개발자에게 진입 장벽이 높은 Jekyll 설치하기"
-subtitle: "디자이너도 만드는 Jekyll Blog - 1편"
-type: "Development"
-blog: true
-text: true
-author: "Jihye Leee"
-post-header: true
-header-img: "img/jekyll-pattern.jpg"
-order: 2
----
+
 
 # Jekyll과의 만남
 
