@@ -30,6 +30,7 @@ Arduino UNO----->MPU6050
 `A5` --------------------> `SDA` 
 
 # Code 
+    
     #include <Wire.h> 
 
     const int MPU=0x68;//MPU6050 I2C Address  
@@ -61,25 +62,25 @@ Arduino UNO----->MPU6050
       
     Wire.write(0x3B);//AcX 레지스터 위치 요청
       
-   Wire.endTransmission(false);
+    Wire.endTransmission(false);
       
-   Wire.requestFrom(MPU,14,true);//14byte의 데이터를 요청
+    Wire.requestFrom(MPU,14,true);//14byte의 데이터를 요청
       
-   AcX=Wire.read()<<8|Wire.read();//두개의 나뉘어진 바이트를 하나로 이어붙입니다.
+     AcX=Wire.read()<<8|Wire.read();//두개의 나뉘어진 바이트를 하나로 이어붙입니다.
       
-   AcY=Wire.read()<<8|Wire.read();
+    AcY=Wire.read()<<8|Wire.read();
       
-   AcZ=Wire.read()<<8|Wire.read();
+    AcZ=Wire.read()<<8|Wire.read();
       
-   Tmp=Wire.read()<<8|Wire.read();
+    Tmp=Wire.read()<<8|Wire.read();
       
-   GyX=Wire.read()<<8|Wire.read();
+    GyX=Wire.read()<<8|Wire.read();
       
-   GyY=Wire.read()<<8|Wire.read();
+     GyY=Wire.read()<<8|Wire.read();
       
-   GyZ=Wire.read()<<8|Wire.read();
+    GyZ=Wire.read()<<8|Wire.read();
       
-   }
+    }
        
 # Reference
 [http://www.makeshare.org/bbs/board.php?bo_table=arduinosensor&wr_id=47](http://www.makeshare.org/bbs/board.php?bo_table=arduinosensor&wr_id=47)
