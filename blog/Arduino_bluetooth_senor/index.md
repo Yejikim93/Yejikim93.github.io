@@ -15,71 +15,57 @@ order: 6
 
 # Information
 
-- 블루투스 (HC-06) 센서 구입 - [메카솔루션](http://mechasolution.com/shop/main/index.php) 
-- Bluetooth sensor : HC-06 [센서 사양 및 라이브러리 설치](http://mechasolution.com/shop/goods/goods_view.php?goodsno=6&category=)
-- Arduino download [download site](https://www.arduino.cc/en/Main/Software) 
+- 블루투스 (HC-06) 센서 구입 - [[메카솔루션]](http://mechasolution.com/shop/main/index.php) 
+- Bluetooth sensor : HC-06 [[센서 사양]](http://mechasolution.com/shop/goods/goods_view.php?goodsno=71794&category=)
+- Feature : Android - bluetooth 2.0 (usually, pairing passward: 1234)  
+- Arduino download [[download site]](https://www.arduino.cc/en/Main/Software) 
+
 
 # Connection 
 ![BluetoothSensor](./img/Bluetooth_sensor.png) </p>
 
-Arduino UNO----->MPU6050 
+Arduino UNO----->HC-06 
 
-`5V` --------------------> `VCC`     
+`5V` --------------------> `+5V`     
 `GND` -------------------> `GND`   
-`A4` --------------------> `SCL`   
-`A5` --------------------> `SDA` 
+`2` --------------------> `RX`   
+`~3` --------------------> `TX` 
 
 # Code 
-      #include <Wire.h>  
-      const int MPU=0x68;//MPU6050 I2C Address  
-      int AcX,AcY,AcZ,Tmp,GyX,GyY,GyZ; 
-      void get6050();  
+     
+      #include <SoftwareSerial.h>
+      #include <Wire.h>
+      
+      SoftwareSerial BTSerial(2, 3); // SoftwareSerial(RX, TX)
+      byte buffer[1024]; // 데이터를 수신 받을 버퍼
+      int bufferPosition; // 버퍼에 데이타를 저장할 때 기록할 위치
 
-  void setup(){ 
-      
-     Wire.begin();
-     Wire.beginTransmission(MPU); 
-     Wire.write(0x6B); 
-     Wire.write(0);//MPU6050 -'Waiting action mode' 
-     Wire.endTransmission(true); 
-     } 
-        
-    void loop(){ 
-    
-    get6050();//Update sensor data 
-      
-    //Print in Serial Monitor
-    Serial.println(Acx); // choose what I want to print <- AcX/AcY/AcZ/GyX/GyY/GyZ  
-    } 
-      
-    delay(10); // delay time 
-    } 
-      
-    void get6050(){ 
-    Wire.beginTransmission(MPU);//MPU6050 호출  
-      
-    Wire.write(0x3B);//AcX 레지스터 위치 요청
-      
-   Wire.endTransmission(false);
-      
-   Wire.requestFrom(MPU,14,true);//14byte의 데이터를 요청
-      
-   AcX=Wire.read()<<8|Wire.read();//두개의 나뉘어진 바이트를 하나로 이어붙입니다.
-      
-   AcY=Wire.read()<<8|Wire.read();
-      
-   AcZ=Wire.read()<<8|Wire.read();
-      
-   Tmp=Wire.read()<<8|Wire.read();
-      
-   GyX=Wire.read()<<8|Wire.read();
-      
-   GyY=Wire.read()<<8|Wire.read();
-      
-   GyZ=Wire.read()<<8|Wire.read();
-      
-   }
-       
+
+      void setup(){     
+
+      Wire.begin();
+
+      Wire.beginTransmission(MPU);
+      Wire.write(0x6B);
+
+      Wire.write(0);//MPU6050 을 동작 대기 모드로 변경
+
+      Wire.endTransmission(true);
+
+      // 블루투스
+      BTSerial.begin(9600);
+      Serial.begin(9600); 
+      bufferPosition = 0; // 버퍼 위치 초기화
+      }
+ 
+      void loop(){
+         num=1;
+         BTSerial.println(num);       
+      delay(10);
+      } 
+     
+     
+
 # Reference
-[http://www.makeshare.org/bbs/board.php?bo_table=arduinosensor&wr_id=47](http://www.makeshare.org/bbs/board.php?bo_table=arduinosensor&wr_id=47)
+[https://m.blog.naver.com/PostView.nhn?blogId=eros1092&logNo=221423757801&proxyReferer=https%3A%2F%2Fwww.google.co.kr%2F](https://m.blog.naver.com/PostView.nhn?blogId=eros1092&logNo=221423757801&proxyReferer=https%3A%2F%2Fwww.google.co.kr%2F)
 
