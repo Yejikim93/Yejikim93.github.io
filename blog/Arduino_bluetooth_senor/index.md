@@ -15,12 +15,12 @@ order: 6
 
 # Information
 
-- 가속도&자이로 센서 구입 - [메카솔루션](http://mechasolution.com/shop/main/index.php) 
-- Accelerometer + Gyro sensor : MPU6050 (6-Axis) [센서 사양 및 라이브러리 설치](http://mechasolution.com/shop/goods/goods_view.php?goodsno=6&category=)
+- 블루투스 (HC-06) 센서 구입 - [메카솔루션](http://mechasolution.com/shop/main/index.php) 
+- Bluetooth sensor : HC-06 [센서 사양 및 라이브러리 설치](http://mechasolution.com/shop/goods/goods_view.php?goodsno=6&category=)
 - Arduino download [download site](https://www.arduino.cc/en/Main/Software) 
 
 # Connection 
-![AccGyrosensor](./img/AccGyrosensor.png) </p>
+![BluetoothSensor](./img/Bluetooth_sensor.png) </p>
 
 Arduino UNO----->MPU6050 
 
@@ -30,11 +30,11 @@ Arduino UNO----->MPU6050
 `A5` --------------------> `SDA` 
 
 # Code 
-``` #include <Wire.h>  
-const int MPU=0x68;//MPU6050 I2C Address  
-int AcX,AcY,AcZ,Tmp,GyX,GyY,GyZ; 
-void get6050();  
-``` 
+      #include <Wire.h>  
+      const int MPU=0x68;//MPU6050 I2C Address  
+      int AcX,AcY,AcZ,Tmp,GyX,GyY,GyZ; 
+      void get6050();  
+
   void setup(){ 
       
      Wire.begin();
