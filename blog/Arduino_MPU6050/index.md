@@ -20,7 +20,7 @@ order: 5
 - Arduino download [download site](https://www.arduino.cc/en/Main/Software) 
 
 # Connection 
-![AccGyrosensor](./img/AccGyrosensor.jpg)</br>
+![AccGyrosensor](./img/AccGyrosensor.png)</br>
 
 Arduino UNO----->MPU6050 </br>
 `5V` --------------------> `VCC`    </br>
