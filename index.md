@@ -8,7 +8,7 @@ description: YEJI KIM, RESEARCHER OF GIST INSTITUE OF TECHNOLOGY IN SOUTH KOREA.
 <div class="intro-animation">
 <section class="explanation">
     <h1 class="intro">
-        I'm Yeji Kim (Anne Kim), </h1>
+        I'm Yeji Kim, </h1>
         <h1 class="intro">	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a Reasearcher in 
         <div class="intro-link">
             <a class="transition" href="http://ridicorp.com/" target="_blank">
