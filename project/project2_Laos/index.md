@@ -10,7 +10,7 @@ ridi: true
 portfolio: true
 post-header: true
 header-img: "img/project2_Laos.JPG"
-main-img: "img/project2_Laos.JPG."
+main-img: "img/project2_Laos.JPG"
 role-title: "First Author"
 role-specific: "Fabrication(TFN-CNT), Analysis(SEM, AFM, CLSM)"
 team: "Yeji Kim, Eunjin Sung,  Min Min Cho,  Byun Jinhwan,  Soo Kyung Yoon,  Lee Seung-yeop,
