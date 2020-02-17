@@ -9,8 +9,8 @@ text: true
 ridi: true
 portfolio: true
 post-header: true
-header-img: "img/project4_AirQuality.png"
-main-img: "img/project4_AirQuality.png"
+header-img: "img/project5_AirQuality.png"
+main-img: "img/project5_AirQuality.png"
 role-title: "Researcher"
 role-specific: "Data Analysis"
 team: "Yeji Kim, Junyong Choi and David Lee"
