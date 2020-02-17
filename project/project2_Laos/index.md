@@ -19,7 +19,8 @@ platforms: ""
 date: "Jan 2018-July 2018"
 order: 3
 ---
-# Abstract
+# Global Science Camp in Laos 
+## Monitoring & Treatment of Mekong River and air pollution
 
 ![project2_Laos_img1](img/Laos_img1.png)
 ![project2_Laos_img2](img/Laos_img2.png)
