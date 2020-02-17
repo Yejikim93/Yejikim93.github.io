@@ -32,4 +32,4 @@ The spacer model was designed by using a diamond-shaped commercial membrane feed
 
 ## Reference 
 
-Numan Yanar, Moon Son, Eunmok Yang, Yeji Kim, Hosik Park, Seung-Eun Man, Heechul Choi (2018) , Investigation of the performance behavior of a forward osmosis membrane system using various feed spacer materials fabricated by 3D printing technique, Chemosphere, 202, 708-715 
+https://www.sciencedirect.com/science/article/pii/S0045653518305666
