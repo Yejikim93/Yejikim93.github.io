@@ -11,8 +11,8 @@ header-img: img/header_img.PNG
 
 ## Previous Laboratory
 
-- [Environmental Nano Technology](https://enl.gist.ac.kr/enl/) -'Master in GIST' 
-- [Maturepolis Lab](https://maturepolis.com/) -'Researcher in KAIST'
+- [Environmental Nano Technology](https://enl.gist.ac.kr/enl/) -`Master in GIST` 
+- [Maturepolis Lab](https://maturepolis.com/) -`Researcher in KAIST`
 
 <br />
 
