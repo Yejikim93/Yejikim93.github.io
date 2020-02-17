@@ -3,7 +3,7 @@ layout: post
 author: "Yeji Kim"
 title:  "Fitcare prototype App"
 subtitle: ""
-type: "Ongoing"
+type: "Compeleted"
 projects: true
 text: true
 ridi: true
@@ -15,7 +15,7 @@ role-title: "Developer"
 role-specific: "Front-end developer (Main position)"
 team: "Yeji Kim, Dohum Kim, Yoseoup Kim, UnYan Kim"
 platforms: "Android(java), firebase, Arduino"
-date: "Jan 2019- Ongoing"
+date: "Jan 2019- Oct 2019"
 order: 4
 ---
 
