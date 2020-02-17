@@ -19,4 +19,23 @@ date: "Jan 2019- Oct 2019"
 order: 4
 ---
 
-[Fitcare_facebook](https://www.facebook.com/fitcare.kr/)
+
+# Android application 
+### Registration of a patent - ongoing process
+## My Works 
+
+#### 1. Development of  Prototype application -android
+#### 2. Development of minium value product(MVP) -arduino
+#### 3. Participated activities 
+
+- 2018 Young Entrepreneurship's Idea Contest, Center of Creative Economy Innovation in Gwangju, 2018.11.02~11.04
+(Yeji Kim & Yosoup Kim) won the `Award of excellence` 
+[Reference_New1](http://www.expo7.kr/news/articleView.html?idxno=3044)/
+[Reference_New2](http://www.gjdream.com/v2/news/view.html?news_type=203&code_M=2&mode=view&uid=491508)
+
+- Industrial Intelligence Startup Contest Workshop, Korea Artificial Intelligence Association, 2019.6.27~6.29  
+
+- 2019 ICT Smart Device Tone, Institute of Economic Science in Gyeonggi-do, 2019.8.17-8.18
+[Reference_New3](http://www.asiatoday.co.kr/view.php?key=20190819010009660)
+
+# Reference: [Fitcare_facebook](https://www.facebook.com/fitcare.kr/)
