@@ -9,14 +9,14 @@ text: true
 ridi: true
 portfolio: true
 post-header: true
-header-img: "img/project2_CNT_membrane.png"
-main-img: "img/project2_CNT_membrane.png"
+header-img: "img/project3_CNT_membrane.png"
+main-img: "img/project3_CNT_membrane.png"
 role-title: "First Author"
 role-specific: "Fabrication(TFN-CNT), Analysis(SEM, AFM, CLSM)"
 team: "Yeji Kim, Eunmok Yang, Hosik Park, Heechul Choi"
 platforms: "3D printer"
 date: "Jan 2018-Jan 2019"
-order: 3
+order: 4
 ---
 # Abstract
 
