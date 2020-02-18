@@ -1,6 +1,9 @@
 - name: Android
 - name: Arduino
+- name: Raspberry Pi
+- name: MQTT
 - name: Firebase
+- name: MySQL
 - name: Python
 - name: Pandas
 - name: QGIS
