@@ -4,6 +4,8 @@ title: "About me"
 main: true
 subtitle: Reasercher in GIST 
 description: YEJI KIM, RESEARCHER OF GIST INSTITUE OF TECHNOLOGY IN SOUTH KOREA. | 
+project-header: False
+header-img: "img/share_img.jpg"
 ---
 <div class="intro-animation">
 <section class="explanation">
