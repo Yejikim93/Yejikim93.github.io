@@ -28,7 +28,9 @@ order: 5
 #### 2. Development of minium value product(MVP) -arduino
 #### 3. Participated activities 
 <br/>
+
 ![project4_fitcare_activity](img/project4_fitcare_activity.jpg)
+
 <br/>
 - 2018 Young Entrepreneurship's Idea Contest, 2018.11.02~11.04 <br/>
   by Center of Creative Economy Innovation in Gwangju  <br/>
