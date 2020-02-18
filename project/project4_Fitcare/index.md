@@ -27,12 +27,12 @@ order: 5
 #### 1. Development of  Prototype application -android
 #### 2. Development of minium value product(MVP) -arduino
 #### 3. Participated activities 
-
+<br/>
+![project4_fitcare_activity](img/project4_fitcare_activity.jpg)
+<br/>
 - 2018 Young Entrepreneurship's Idea Contest, 2018.11.02~11.04 <br/>
   by Center of Creative Economy Innovation in Gwangju  <br/>
 (Yeji Kim & Yosoup Kim) won the `Award of excellence` <br/>
-
-![project4_fitcare_activity](img/project4_fitcare_activity.jpg)
 
 [Reference_New1](http://www.expo7.kr/news/articleView.html?idxno=3044)/
 [Reference_New2](http://www.gjdream.com/v2/news/view.html?news_type=203&code_M=2&mode=view&uid=491508)
