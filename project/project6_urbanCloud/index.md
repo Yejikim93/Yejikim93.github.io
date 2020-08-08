@@ -19,4 +19,4 @@ date: "SEP 2019-"
 order: 7
 ---
 
-  {% include 파일명.html id="https://youtu.be/C2xQtuFq1mM" %}  
+  {% include 파일명.html id="C2xQtuFq1mM&feature=youtu.be" %}  
