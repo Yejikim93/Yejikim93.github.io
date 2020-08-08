@@ -19,7 +19,12 @@ date: "SEP 2019-"
 order: 7
 ---
 
+![project6_polyscape_img1](img/polyscape_img1.jpg)
+![project6_polyscape_raspberry](img/polyscape_raspberry.jpg)
+![project6_polyscape_screen1](img/polyscape_screen1.jpg)
+![project6_polyscape_screen2](img/polyscape_screen2.jpg)
+![project6_polyscape_final](img/polyscape_final.jpg)
 
 # Video
 
-[![polyscape_urbancloud_video](http://img.youtube.com/vi/C2xQtuFq1mM/0.gif)](http://www.youtube.com/watch?v=C2xQtuFq1mM)
+[![polyscape_urbancloud_video](http://img.youtube.com/vi/C2xQtuFq1mM/0.jpg)](http://www.youtube.com/watch?v=C2xQtuFq1mM)
