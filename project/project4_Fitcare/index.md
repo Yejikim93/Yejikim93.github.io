@@ -47,4 +47,7 @@ order: 5
   by Institute of Economic Science in Gyeonggi-do <br/>
   [Reference_New3](http://www.asiatoday.co.kr/view.php?key=20190819010009660)
 
-# Reference: [Fitcare_facebook](https://www.facebook.com/fitcare.kr/)
+# Video
+
+[![gymmate_prototype](http://img.youtube.com/vi/71Cza7A3_3A.jpg)](http://www.youtube.com/watch?v=71Cza7A3_3A)
+
