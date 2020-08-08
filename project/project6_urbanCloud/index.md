@@ -20,9 +20,7 @@ order: 7
 ---
 
 ![project6_polyscape_img1](img/polyscape_img1.jpg)
-![project6_polyscape_raspberry](img/polyscape_raspberry.jpg)
-![project6_polyscape_screen1](img/polyscape_screen1.jpg)
-![project6_polyscape_screen2](img/polyscape_screen2.jpg)
+![project6_polyscape_software](img/polyscape_software.jpg)
 ![project6_polyscape_final](img/polyscape_final.jpg)
 
 # Video
