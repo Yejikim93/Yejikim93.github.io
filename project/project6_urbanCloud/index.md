@@ -22,4 +22,4 @@ order: 7
 
 # Video
 
-[![polyscape_urbancloud_video](http://img.youtube.com/vi/C2xQtuFq1mM/0.png)](http://www.youtube.com/watch?v=C2xQtuFq1mM)
+[![polyscape_urbancloud_video](http://img.youtube.com/vi/C2xQtuFq1mM/0.gif)](http://www.youtube.com/watch?v=C2xQtuFq1mM)
