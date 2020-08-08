@@ -3,7 +3,7 @@ layout: post
 author: "Yeji Kim"
 title:  "UrbanCloud"
 subtitle: "Smart sun shade"
-type: "Ongoing"
+type: "Ongoing-Completed"
 projects: true
 text: true
 ridi: true
