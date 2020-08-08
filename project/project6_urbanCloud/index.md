@@ -24,7 +24,7 @@ order: 7
 ![project6_polyscape_final](img/polyscape_final.jpg)
 
 # IOT system 
-![project6_polyscape_software](img/polyscape_software.jpg)
+![project6_polyscape_IOTsystem](img/polyscape_IOTsystem.jpg)
 
 
 # Video
