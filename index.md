@@ -2,17 +2,17 @@
 layout: default
 title: "About me"
 main: true
-subtitle: Reasercher in GIST 
-description: YEJI KIM, RESEARCHER OF GIST INSTITUE OF TECHNOLOGY IN SOUTH KOREA. |
+subtitle: My position
+description: My position |
 ---
 <div class="intro-animation">
 <section class="explanation">
     <h1 class="intro">
         I'm Yeji Kim, </h1>
-        <h1 class="intro">	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a Reasearcher in 
+        <h1 class="intro">	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a Software developer in 
         <div class="intro-link">
-            <a class="transition" href="http://ridicorp.com/" target="_blank">
-                GIST 
+            <a class="transition" href="https://mathjsh217.wixsite.com/website" target="_blank">
+                Polyscape 
             </a>
             <div class="underline-mask transition"></div>
             <div class="underline"></div>
