@@ -19,9 +19,13 @@ date: "SEP 2019-"
 order: 7
 ---
 
+# Prototype system 
 ![project6_polyscape_img1](img/polyscape_img1.jpg)
-![project6_polyscape_software](img/polyscape_software.jpg)
 ![project6_polyscape_final](img/polyscape_final.jpg)
+
+# IOT system 
+![project6_polyscape_software](img/polyscape_software.jpg)
+
 
 # Video
 
