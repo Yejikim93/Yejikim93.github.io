@@ -49,5 +49,5 @@ order: 5
 
 # Video
 
-[![gymmate_prototype](http://img.youtube.com/vi/71Cza7A3_3A.jpg)](http://www.youtube.com/watch?v=71Cza7A3_3A)
+[![gymmate_prototype](http://img.youtube.com/vi/71Cza7A3_3A/0.jpg)](http://www.youtube.com/watch?v=71Cza7A3_3A)
 
