@@ -22,4 +22,4 @@ order: 7
 
 # Video
 
-{% include video-frame.html id="C2xQtuFq1mM" %}  
+[![](http://img.youtube.com/vi/C2xQtuFq1mM/0.jpg)](http://www.youtube.com/watch?v=C2xQtuFq1mM "polyscape_urbancloud")
