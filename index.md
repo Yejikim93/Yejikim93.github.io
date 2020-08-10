@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: /about/
 title: "About me"
 main: true
 subtitle: My position
