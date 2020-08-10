@@ -1,5 +1,5 @@
 ---
-layout: defeaut
+layout: default
 title: "About me"
 main: true
 subtitle: My position
