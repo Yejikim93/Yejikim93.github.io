@@ -4,7 +4,7 @@ title: "Yeji Kim's blog"
 subtitle: "Welcome to visit !"
 type: ""
 author: ""
-permalink: /about/
+permalink: /home/
 post-header: true
 header-img: img/header_img.PNG
 ---
