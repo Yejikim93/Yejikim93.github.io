@@ -2,7 +2,6 @@
 layout: defeaut
 title: "About me"
 main: true
-permalink: /about/
 subtitle: My position
 description: My position |
 ---
