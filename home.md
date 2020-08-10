@@ -6,7 +6,7 @@ type: ""
 author: ""
 permalink: /home/
 post-header: true
-header-img: img/header_img.PNG
+header-img: img/header_img.jpg
 ---
 
 ## Previous Laboratory
