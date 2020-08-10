@@ -12,7 +12,7 @@
                     <a href="{{ '/about' | prepend: site.baseurl }}" {% if current[1] == "about" %} class="active"{% endif %} >Home</a>
                 </li>
               <li class="transition">
-                    <a href="{{ '' | prepend: site.baseurl }}"/ {% if current[1] == "about" or current[1] == "blog" or current[1] == "project" %} class="normal" {% endif %} class="active">About</a>
+                    <a href="{{ '' | prepend: site.baseurl }}" {% if current[1] == "" %} class="active"  {% endif %}  >About</a>
               </li>  
         
                 <li class="transition">
