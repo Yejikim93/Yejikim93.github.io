@@ -31,9 +31,12 @@ Keywords: Air quality index (AQI); Air pollution; Human exposure; Human response
 
 
 # Result
-![project5_result](img/project5_img3.JPG)
+![project5_result](img/project5_img3.JPG) 
+<br/><br/>
 ![project5_result2](img/project5_airquality_img4.JPG)
+<br/><br/>
 ![project5_result3](img/project5_airquality_img5.JPG)
+<br/><br/>
 ![project5_result4](img/project5_airquality_img6.JPG)
 
 # Conclusion 
