@@ -30,7 +30,7 @@ order: 7
 ![project6_Iot_info](img/project6_Iot_info.png =100x20)
 <br><br>
  ### 2) In addition, the floating population information of Urban Cloud is collected to provide customized local information to pedestrians.
-![project6_Iot_info](img/project6_Iot_info2.png =100x20)
+![project6_Iot_info](img/project6_Iot_info2.png =250x)
 
 
 # Video
