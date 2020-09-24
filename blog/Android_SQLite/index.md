@@ -11,13 +11,9 @@ header-img: "img/third_custom.jpg"
 order: 4
 ---
 
+**SQLite** is a relational database management system (RDBMS) contained in a C library. In contrast to many other database management systems, SQLite is not a client–server database engine. Rather, it is embedded into the end program.
 
-**NFC Tags** are an application of RFID technology. Unlike most RFID, which makes an effort to give a long reading range, NFC deliberately limits this range to only a few inches or almost touching the phone to the Tag. 
-<br><br>
-
-**Radio-frequency identification (RFID)** uses electromagnetic fields to automatically identify and track tags attached to objects. An RFID tag consists of a tiny radio transponder; a radio receiver and transmitter. When triggered by an electromagnetic interrogation pulse from a nearby RFID reader device, the tag transmits digital data, usually an identifying inventory number, back to the reader. 
-<br>
-RFID tags are made out of three pieces: a micro chip (an integrated circuit which stores and processes information and modulates and demodulates radio-frequency (RF) signals), an antenna for receiving and transmitting the signal and a substrate. The tag information is stored in a non-volatile memory. The RFID tag includes either fixed or programmable logic for processing the transmission and sensor data, respectively.
+SQLite is a popular choice as embedded database software for local/client storage in application software such as web browsers. It is arguably the most widely deployed database engine, as it is used today by several widespread browsers, operating systems, and embedded systems (such as mobile phones), among others.
 
 (From Wikipedia)
 
