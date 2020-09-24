@@ -19,14 +19,14 @@ order: 5
     
 ## installing 
 
-   # Module 설치
+    # Module 설치
   
-   git clone https://github.com/adafruit/Adafruit_Python_DHT.git
-   [git 이 설치되어 있지 않은경우 sudo apt-get install git]
-   cd Adafruit_Python_DHT
-   sudo apt-get update
-   sudo apt-get install build-essential python-dev python-openssl
-   sudo python setup.py install
+    git clone https://github.com/adafruit/Adafruit_Python_DHT.git
+    [git 이 설치되어 있지 않은경우 sudo apt-get install git]
+    cd Adafruit_Python_DHT
+    sudo apt-get update
+    sudo apt-get install build-essential python-dev python-openssl
+    sudo python setup.py install
 
     # 실행 py 언어 (temp.py) 로 저장
 
