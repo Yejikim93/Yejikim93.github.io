@@ -10,7 +10,7 @@ post-header: true
 header-img: "img/third_custom.jpg"
 order: 5
 ---
-![sensor_image](./img/tmep_air_rasp.png) 
+![sensor_image](./img/temp_air_rasp.png) 
 
 # DHT22 
 
