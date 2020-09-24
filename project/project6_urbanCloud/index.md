@@ -26,6 +26,11 @@ order: 7
 # IOT system 
 ![project6_polyscape_IOTsystem](img/polyscape_IOTsystem.jpg)
 
+Based on real-time temperature and humidity data measured through the IOT system, Urban Cloud provides customized advertisements for nearby cafes and restaurants according to environmental information. In addition, the floating population information of Urban Cloud is collected to provide customized local information to pedestrians.
+
+![project6_Iot_info](img/project6_Iot_info.png)
+![project6_Iot_info](img/project6_Iot_info.png)
+
 
 # Video
 
