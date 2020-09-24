@@ -23,4 +23,4 @@ RFID tags are made out of three pieces: a micro chip (an integrated circuit whic
 This is an example of using NFC tag
 [Github_source_code](https://github.com/Yejikim93/NFCtage)
 
-![nfc_tag](img/nfc_tag_img.JPG)
+![nfc_tag](img/nfc_img.JPG)
