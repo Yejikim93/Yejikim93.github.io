@@ -11,11 +11,12 @@ header-img: "img/third_custom.jpg"
 order: 5
 ---
 
-DHT22 
+# DHT22 
 
-# Connection 
+## Connection 
+![sensor_image](./img/tmep_air_img.PNG) 
 
-# installing 
+## installing 
 
     # Module 설치
   
@@ -47,3 +48,31 @@ DHT22
 
     #예제1 - 매 10분마다 온도를 기록
     */10 * * * * sudo python /var/www/html/temp.py >> /var/www/html/temp.txt
+    
+    
+# SDS011
+
+## installing
+
+    1. Git 에서 파이썬 스크립트 받아오기 
+    $ git clone https://github.com/zefanja/aqi.git
+    
+    2.해당 스크립트를 열고 자신이 원하는 설정으로 변경 
+     vi ./aqi/phython/aqi.py
+     
+    3. 수행 
+    3-1. json  파일 비어있기 때문에 생성해줘야됨
+    $  sudo mkdir -p /var/www/html
+    $ sudo chown pi:pi /var/www/html
+    $ echo [] > /var/www/html/aqi.json
+    $ ./aqi/python/aqi.py
+    
+    4. json 파일 확인
+    $ cat /var/www/html/aqi.json
+    
+# Reference 
+[https://nonaka.tistory.com/171](https://nonaka.tistory.com/171)
+[https://blog.heeseop.com/122](https://blog.heeseop.com/122)
+[https://m.blog.naver.com/alkydes/220792520374](https://m.blog.naver.com/alkydes/220792520374)
+    
+     
