@@ -18,8 +18,9 @@ SQLite is a popular choice as embedded database software for local/client storag
 (From Wikipedia)
 
 # Source Code
-[Github_source_code](https://github.com/Yejikim93/AndroidSQLite)
 This is an example of using adroid SQLite DB.
+[Github_source_code](https://github.com/Yejikim93/AndroidSQLite)
+
 ![Android_SQLite](img/sqlite_img.JPG)
 
 
