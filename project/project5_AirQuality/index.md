@@ -47,4 +47,3 @@ This work is financially supported by Korea Ministry of Land, Infrastructure and
 # Reference
 
 [https://koasas.kaist.ac.kr/handle/10203/269124](https://koasas.kaist.ac.kr/handle/10203/269124)
-![project5_file](img/KKHTCNN.docx)
