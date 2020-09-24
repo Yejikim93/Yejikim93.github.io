@@ -10,12 +10,12 @@ post-header: true
 header-img: "img/third_custom.jpg"
 order: 5
 ---
-![sensor_image](./img/tmep_air_img.PNG) 
+![sensor_image](./img/tmep_air_rasp.png) 
 
 # DHT22 
 
 ## Connection 
-![DHT22_img](./img/DHT22_img.PNG) 
+![DHT22_img](./img/DHT22_img.jpg) 
 
 ## installing 
 
