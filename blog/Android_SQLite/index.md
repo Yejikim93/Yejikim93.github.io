@@ -10,8 +10,6 @@ post-header: true
 header-img: "img/third_custom.jpg"
 order: 4
 ---
-![Android_SQLite](img/sqlite_img.JPG)
-<br>
 
 SQLite is a relational database management system (RDBMS) contained in a C library. In contrast to many other database management systems, SQLite is not a client–server database engine. Rather, it is embedded into the end program.
 
@@ -21,3 +19,7 @@ SQLite is a popular choice as embedded database software for local/client storag
 
 # Source Code
 [Github_source_code](https://github.com/Yejikim93/AndroidSQLite)
+This is an example of using adroid SQLite DB.
+![Android_SQLite](img/sqlite_img.JPG)
+
+
