@@ -22,7 +22,7 @@ order: 3
 # Global Science Camp in Laos 
 ## Monitoring & Treatment of Mekong River and air pollution
 
-![project2_Laos_img1](img/project2_Laos_img1.JPG)
+![project2_Laos_img1](img/project2_Laos_img1.jpg)
 
 The GIST Global Science Camp began overseas service for the first time this year and lasted for four nights and five days from the 16th to the 20th. A total of 14 team members, including GIST university students, graduate students, and researchers, left for service in Laos. About 60 students participated in the field, including 50 students from the Department of Chemical Engineering and Environmental Engineering, National University of Laos, and 10 students from the University of Cancun, Thailand.
 <br/><br/>
