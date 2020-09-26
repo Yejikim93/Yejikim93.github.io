@@ -31,11 +31,9 @@ In this study, the anti-biofouling effect of a thin film nanocomposite (TFN) mem
 
 <br>
 <br>
-<br>
 
 ### Contact angle measurement of the support layer of the fabricated membrane.&Comparison of the biofouling flux decline of the bare TFC membrane and CNT0.5 TFN membrane in the PRO mode.
 ![project3_concept_figure](img/paper_result_img1.png)
-<br>
 <br>
 <br>
 
