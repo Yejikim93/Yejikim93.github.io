@@ -30,7 +30,7 @@ The Science Camp, which focuses on social and environmental issues in Laos, has 
 <br/><br/>
 In the water purification experiment using the Mekong River, we demonstrated the principle of purification by demonstrating the desired water purifier developed by GIST's appropriate technology, and conducted specialized training at the International Institute of Environment for easy use in the field. Hope Water Purifier maximized the synergy effect with global social contribution projects for safe drinking water supply and health promotion.
 
-![project2_Laos_img1](img/laos_news_img.jpg)
+![project2_Laos_img1](img/project2_laos_news_img.jpg)
 
 # Reference
 
