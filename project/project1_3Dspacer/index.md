@@ -32,11 +32,11 @@ Recently, feed spacer research for improving the performance of a membrane modul
 
 # Result
 
-![project1_3Dspacer](img/spacer_img.jpg)
+![project1_3Dspacer](img/spacer_img.JPG)
 
-![project1_3Dspacer](img/spacer_img1.jpg)
+![project1_3Dspacer](img/spacer_img1.JPG)
 
-![project1_3Dspacer](img/spacer_img2.jpg)
+![project1_3Dspacer](img/spacer_img2.JPG)
 
 ## Reference 
 
