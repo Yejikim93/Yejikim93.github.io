@@ -32,10 +32,6 @@ Recently, feed spacer research for improving the performance of a membrane modul
 
 # Result
 
-![project1_3Dspacer](img/spacer_img.JPG)
-<br> 
-<br>
-
 ### i. Water flux and reverse solute flux comparison  ii. RSFS values for the following spacers  b) Fouling-dependent water flux decrease of the commercial membrane using the following spacers
 ![project1_3Dspacer](img/spacer_img1.JPG)
 <br>
