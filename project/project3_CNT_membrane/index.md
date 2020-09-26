@@ -30,6 +30,7 @@ In this study, the anti-biofouling effect of a thin film nanocomposite (TFN) mem
 ### Contact angle measurement of the support layer of the fabricated membrane.&Comparison of the biofouling flux decline of the bare TFC membrane and CNT0.5 TFN membrane in the PRO mode.
 <br>
 ![project3_concept_figure](img/paper_result_img2.png)
+<br>
 ### Orthogonal view of the confocal laser scanning microscopy(CLSM) image of the biofouled layers on CNT0/CNT0.5 membrane in the PRO mode: (a and b) CNT0 membrane/(c and d) CNT0.5 membrane and (a and c) live bacteria on membrane/(b and d) dead bacteria on the membrane.
 
 ## Reference:
