@@ -9,7 +9,7 @@ description: My position |
 <section class="explanation">
     <h1 class="intro">
         I'm 
-        <div class="name-like">
+        <div class="intro-link">
             <a class ="transition" href="https://scholar.google.com/citations?user=GtDE7SIAAAAJ&hl=en" target="_blank"> 
             Yeji Kim 
             </a>
