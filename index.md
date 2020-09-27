@@ -10,12 +10,13 @@ description: My position |
     <h1 class="intro">
         I'm 
         <div class="name-like">
-        <a class ="transition" href="https://scholar.google.com/citations?user=GtDE7SIAAAAJ&hl=en" target="_blank"> 
-            Yeji Kim </a>
+            <a class ="transition" href="https://scholar.google.com/citations?user=GtDE7SIAAAAJ&hl=en" target="_blank"> 
+            Yeji Kim 
+            </a>
             <div class="underline-mask transition"></div>
             <div class="underline"></div>
         </div> 
-        , </h1>
+        </h1>
         <h1 class="intro">	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a Software developer in 
         <div class="intro-link">
             <a class="transition" href="https://mathjsh217.wixsite.com/website" target="_blank">
