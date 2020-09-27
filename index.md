@@ -8,7 +8,8 @@ description: My position |
 <div class="intro-animation">
 <section class="explanation">
     <h1 class="intro">
-        I'm Yeji Kim, </h1>
+        I'm <a class ="transition" href="https://scholar.google.com/citations?user=GtDE7SIAAAAJ&hl=en" target="_blank"> Yeji Kim </a>
+        , </h1>
         <h1 class="intro">	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a Software developer in 
         <div class="intro-link">
             <a class="transition" href="https://mathjsh217.wixsite.com/website" target="_blank">
