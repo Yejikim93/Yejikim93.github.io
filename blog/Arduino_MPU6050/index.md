@@ -15,8 +15,8 @@ order: 1
 
 # Information
 
-- Accelerometer + Gyro sensor : MPU6050 (6-Axis) [[센서 사양 및 라이브러리 설치]](http://mechasolution.com/shop/goods/goods_view.php?goodsno=6&category=)
 - Arduino download [[download site]](https://www.arduino.cc/en/Main/Software) 
+- Accelerometer + Gyro sensor : MPU6050 (6-Axis) [[센서 사양 및 라이브러리 설치]](http://mechasolution.com/shop/goods/goods_view.php?goodsno=6&category=)
 - 가속도&자이로 센서 구입 - [[메카솔루션]](http://mechasolution.com/shop/main/index.php) 
 
 # Connection 
