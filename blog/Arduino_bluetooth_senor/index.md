@@ -15,11 +15,10 @@ order: 2
 
 # Information
 
-- 블루투스 (HC-06) 센서 구입 - [[메카솔루션]](http://mechasolution.com/shop/main/index.php) 
-- Bluetooth sensor : HC-06 [[센서 사양]](http://mechasolution.com/shop/goods/goods_view.php?goodsno=71794&category=)
 - Feature : Android - bluetooth 2.0 (usually, pairing passward: 1234)  
 - Arduino download [[download site]](https://www.arduino.cc/en/Main/Software) 
-
+- 블루투스 (HC-06) 센서 구입 - [[메카솔루션]](http://mechasolution.com/shop/main/index.php) 
+- Bluetooth sensor : HC-06 [[센서 사양]](http://mechasolution.com/shop/goods/goods_view.php?goodsno=71794&category=)
 
 # Connection 
 ![BluetoothSensor](./img/BluetoothSensor.PNG) 
