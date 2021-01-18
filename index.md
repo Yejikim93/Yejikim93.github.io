@@ -17,10 +17,10 @@ description: My position |
             <div class="underline"></div>
         </div> 
       </h1>
-        <h1 class="intro">	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a Software developer in 
+        <h1 class="intro">	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a Research scientist in 
         <div class="intro-link">
-            <a class="transition" href="https://mathjsh217.wixsite.com/website" target="_blank">
-                Polyscape 
+            <a class="transition" href="https://www.uos.ac.kr/en/main.do?epTicket=LOG" target="_blank">
+            University of Seoul      
             </a>
             <div class="underline-mask transition"></div>
             <div class="underline"></div>
