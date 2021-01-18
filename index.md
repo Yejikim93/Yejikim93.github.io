@@ -17,7 +17,7 @@ description: My position |
             <div class="underline"></div>
         </div> 
       </h1>
-        <h1 class="intro">	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a Research scientist in 
+        <h1 class="intro">	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a research scientist in 
         <div class="intro-link">
             <a class="transition" href="https://www.uos.ac.kr/en/main.do?epTicket=LOG" target="_blank">
             University of Seoul      
