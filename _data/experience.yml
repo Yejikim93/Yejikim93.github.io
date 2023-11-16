@@ -1,8 +1,12 @@
-
+eighth-place:
+- name: The university of Texas at Austin
+  role: Civil Engineering (Ph.D.)
+  date: 2021. July - Present
+  
 seventh-place:
 - name: University of Seoul
   role: Research Scientist, Water resource management Lab
-  date: 2021. JAN - Present
+  date: 2021. JAN - Jun
 
 sixth-place:
 - name: Polyscape
@@ -26,7 +30,7 @@ third-place:
 
 second-place:
 - name: Gwangu Institute of Science and Technology (GIST)
-  role: Earth & Envrionmental Engineering (M.S)
+  role: Earth & Envrionmental Engineering (M.S.)
   date: 2017. MAR - 2019. MAR
 
 first-place:
