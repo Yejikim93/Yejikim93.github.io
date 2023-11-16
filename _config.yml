@@ -18,9 +18,9 @@ markdown:       kramdown
 author:
   name:         Yeji Kim
   url:          https://yejikim93.github.io/
-  email:        yz6242@gmail.com
+  email:        yejikim@utexas.edu
   github:       yejikim93
-  twitter:      playpingpong
+ # twitter:      playpingpong
 
 # Custom vars
 version:        3.4.1
