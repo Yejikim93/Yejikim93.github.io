@@ -18,8 +18,9 @@ description: My position |
         </div> 
       </h1>
         <h1 class="intro">	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-            a PhD student at UT Austin &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; in
-            <div class="intro-link">
+            a PhD student at UT Austin 
+            in
+            <div class="intro-link">	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                 <a class="trasition" href="http://future-water.org/people/" target="_blank"> Future Water Systems Lab </a> 
                 <div class="underline-mask transition"></div>
                 <div class="underline"></div>
