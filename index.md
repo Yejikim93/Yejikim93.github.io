@@ -20,7 +20,7 @@ description: My position |
         <h1 class="intro">	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a PhD student working in the 
             
         <div class="intro-link">
-        <a class="trasition" href="http://future-water.org/people/" target="_blank"> Future Water Systems Lab </a> 
+            <a class="trasition" href="http://future-water.org/people/" target="_blank"> Future Water Systems Lab </a> 
             <div class="underline-mask transition"></div>
             <div class="underline"></div>
         </div>at UT Austin.
