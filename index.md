@@ -17,11 +17,8 @@ description: My position |
             <div class="underline"></div>
         </div> 
       </h1>
-        <h1 class="intro">	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a research scientist at 
+        <h1 class="intro">	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a PhD student at UT Austin 
         <div class="intro-link">
-            <a class="transition" href="https://www.uos.ac.kr/en/main.do?epTicket=LOG" target="_blank">
-            University of Seoul      
-            </a>
             <div class="underline-mask transition"></div>
             <div class="underline"></div>
         </div>.
