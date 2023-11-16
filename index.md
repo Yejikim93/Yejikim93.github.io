@@ -12,12 +12,13 @@ description: My position |
         <div class="intro-link">
             <a class="transition" href="https://scholar.google.com/citations?user=GtDE7SIAAAAJ&hl=en" target="_blank"> 
             Yeji Kim 
-            </a>
+            </a>,
             <div class="underline-mask transition"></div>
             <div class="underline"></div>
         </div> 
       </h1>
-        <h1 class="intro">	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a PhD student at UT Austin 
+        <h1 class="intro">	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a PhD student working in the 
+            <a class="http://future-water.org/people/" target="_blank"> Future Water Systems Lab </a> at UT Austin
         <div class="intro-link">
             <div class="underline-mask transition"></div>
             <div class="underline"></div>
