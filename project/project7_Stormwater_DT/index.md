@@ -9,7 +9,7 @@ text: true
 ridi: true
 portfolio: true
 post-header: true
-header-img: "img/project7_Stormwater_DT.JPG.jpg"
+header-img: "img/project7_Stormwater_DT.jpg"
 main-img: "img/project7_Stormwater_DT.jpg"
 role-title: "First Author"
 role-specific: 
