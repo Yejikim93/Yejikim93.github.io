@@ -31,6 +31,6 @@ description: My position |
 </section>
 </div>
 
-  ![photo](img/yejikim_photo.png)
+  ![photo](img/homepage_main_img.png)
   
 {% include resume.html %}
