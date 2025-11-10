@@ -9,8 +9,8 @@ text: true
 ridi: true
 portfolio: true
 post-header: true
-header-img: "img/project7_Stormwater_DT.JPG.JPG"
-main-img: "img/project7_Stormwater_DT.JPG"
+header-img: "img/project7_Stormwater_DT.JPG.jpg"
+main-img: "img/project7_Stormwater_DT.jpg"
 role-title: "First Author"
 role-specific: 
 team: "Yeji Kim, Jeil Oh, Matthew Bartos"
