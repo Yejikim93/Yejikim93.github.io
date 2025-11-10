@@ -1,4 +1,23 @@
-
+---
+layout: post
+author: "Yeji Kim"
+title:  "Stormwater Digital twin "
+subtitle: "Stormwater digital twin with online quality control detects urban flood hazards under uncertainty"
+type: "Compeleted"
+projects: true
+text: true
+ridi: true
+portfolio: true
+post-header: true
+header-img: "img/project7_Stormwater_DT.jpg"
+main-img: "img/project7_Stormwater_DT.jpg"
+role-title: "First Author"
+role-specific: 
+team: "Yeji Kim, Jeil Oh, Matthew Bartos"
+platforms: ""
+date: "Jun 2022- Dec 2023"
+order: 8
+---
 
 # Stormwater Digital twin 
 ## Stormwater digital twin with online quality control detects urban flood hazards under uncertainty
