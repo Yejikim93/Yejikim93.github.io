@@ -31,19 +31,6 @@ work:
     bullets:
       - "Evaluated a machine-learning model for chlorophyll-a retrieval using Sentinel-2 from inland and coastal waters"
 
-  - name: "Polyscape"
-    role: "Data Scientist, Urban Platform Service"
-    date: "2019. Jun – 2020. Dec"
-    location: "Daejeon, South Korea"
-    bullets:
-      - "Built IoT system to collect real-time air quality (PM2.5, PM10) and population data using Raspberry Pi"
-      - "Managed MySQL database server and Django/REST API web server for analysis and visualization"
-
-  - name: "Korea Advanced Institute of Science and Technology (KAIST)"
-    role: "Researcher"
-    date: "2019. Jun – Sep"
-    location: "Daejeon, South Korea"
-
   - name: "Gwangju Institute of Science and Technology (GIST)"
     role: "Graduate Research Assistant"
     date: "2017. Feb – 2019. Mar"

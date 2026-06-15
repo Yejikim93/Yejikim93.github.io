@@ -118,61 +118,6 @@
 </section>
 
 
-<!-- ============ Awards & Honors ============ -->
-<section class="resume">
-    <div class="resume-info">
-        <p class="second-label">
-            <span class="label-emoji">
-                &#x1F3C6;
-            </span>
-            &nbsp; Awards & Honors
-        </p>
-    </div>
-    <ul>
-        {% for a in site.data.experience.awards %}
-        <li class="workplace transition">
-            <p class="workplace-name">{{ a.name }}</p>
-            <div class="work-info">
-                <p>{{ a.org }}</p>
-                <p class="work-sub-info">{{ a.year }}</p>
-            </div>
-        </li>
-        {% endfor %}
-    </ul>
-</section>
-
-
-<!-- ============ Teaching ============ -->
-<section class="resume">
-    <div class="resume-info">
-        <p class="second-label">
-            <span class="label-emoji">
-                &#x1F468;&#x200D;&#x1F3EB;
-            </span>
-            &nbsp; Teaching Experience
-        </p>
-    </div>
-    <ul>
-        {% for t in site.data.experience.teaching %}
-        <li class="workplace transition">
-            <p class="workplace-name">{{ t.name }}</p>
-            <div class="work-info">
-                <p>{{ t.role }}</p>
-                <p class="work-sub-info">{{ t.date }}</p>
-                {% if t.bullets %}
-                <ul class="work-bullets">
-                    {% for b in t.bullets %}
-                    <li>{{ b }}</li>
-                    {% endfor %}
-                </ul>
-                {% endif %}
-            </div>
-        </li>
-        {% endfor %}
-    </ul>
-</section>
-
-
 <!-- ============ Technical Skills ============ -->
 <section class="skill">
     <div class="resume-info">
