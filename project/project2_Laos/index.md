@@ -3,6 +3,7 @@ layout: post
 author: "Yeji Kim"
 title:  "GIST Global Science Camp in Laos"
 subtitle: "Monitoring & Treatment of Mekong River and air pollution of Vientiane in Laos "
+published: false
 type: "Compeleted"
 projects: true
 text: true

@@ -93,7 +93,26 @@ section.skill {
         position: absolute;
     }
     padding-bottom: 72px;
-    
+
+    .skill-category {
+        margin-bottom: 24px;
+
+        .skill-category-name {
+            font-family: $source;
+            font-size: 13px;
+            font-weight: 600;
+            color: $default-tint;
+            margin-bottom: 10px;
+            text-transform: uppercase;
+            letter-spacing: 0.6px;
+        }
+
+        ul.skill-list {
+            margin: 0;
+            padding: 0;
+        }
+    }
+
     li.skill_name {
         display: inline-block;
         font-family: $source;
@@ -102,6 +121,13 @@ section.skill {
         border: solid 1px $grey-2;
         font-size: 16px;
         margin: 0 8px 14px 0;
+    }
+
+    li.skill_cert {
+        background-color: $purple;
+        border-color: $purple;
+        color: white;
+        font-weight: 600;
     }
 }
 

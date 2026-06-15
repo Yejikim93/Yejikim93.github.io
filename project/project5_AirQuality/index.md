@@ -3,6 +3,7 @@ layout: post
 author: "Yeji Kim"
 title:  "Analysis of air quality in Korea"
 subtitle: "The Impact of Air Quality on Floating Population by Age Group in Yeouido, Seoul "
+published: false
 type: "Compeleted"
 projects: true
 text: true

@@ -3,6 +3,7 @@ layout: post
 author: "Yeji Kim"
 title:  "UrbanCloud"
 subtitle: "Smart sun shade"
+published: false
 type: "Compeleted"
 projects: true
 text: true

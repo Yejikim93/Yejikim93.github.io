@@ -1,12 +1,49 @@
-- name: Android
-- name: Arduino
-- name: Raspberry Pi
-- name: MQTT
-- name: Firebase
-- name: MySQL
-- name: Python
-- name: Pandas
-- name: QGIS
-- name: SigmaPlot
-- name: Orign
-- name: Endnote
+- category: "Certifications"
+  items:
+    - "FE Civil (EIT Application in Progress)"
+
+- category: "Hydrologic & Hydraulic Modeling"
+  items:
+    - HEC-HMS
+    - HEC-RAS
+    - EPANET
+    - WNTR
+    - SWMM
+    - Rainfall-runoff Analysis
+    - Pump Scheduling
+
+- category: "Field Monitoring & Analysis"
+  items:
+    - Bayesian Inference
+    - Kalman Filter
+    - Monte Carlo Simulation
+    - Digital Twins
+    - Machine Learning (CNN/RNN/SVM)
+    - Anomaly Detection
+    - Data Assimilation
+
+- category: "Programming"
+  items:
+    - Python
+    - Pandas
+    - NumPy
+    - scikit-learn
+
+- category: "GIS & Design"
+  items:
+    - ArcGIS
+    - QGIS
+    - AutoCAD
+
+- category: "IoT & Backend"
+  items:
+    - Raspberry Pi
+    - Particle Boron
+    - Labjack DAQ
+    - AWS EC2
+    - Flask
+    - Django
+    - MySQL
+    - InfluxDB
+    - Linux
+    - Git
