@@ -95,6 +95,9 @@
 }
 
 .catalogue-img {
-    border-radius: 3px;
+    display: block;
+    max-width: 100%;
+    margin-top: 20px;
+    border-radius: 6px;
 //    box-shadow: 6px 0 40px 8px rgba(0,0,0,.05);
 }
