@@ -23,37 +23,34 @@ div.resume-info {
 }
 
 .resume {
-    
+
     .workplace {
         width: 100%;
-        padding: 30px 0;
+        padding: 24px 0;
         border-top: 1px solid rgba(0,0,0,.07);
-        
+
         .workplace-name {
             font-family: $san-serif;
             font-size: 20px;
             font-weight: 700;
-            width: 42%;
-            float: left;
-            
-            @media (max-width: $break-small) {
-                float: none;
-                width: 100%;
-            }
-            
+            margin-bottom: 4px;
         }
 
         .work-info {
-            display: inline-block;
-            
+            p {
+                margin: 2px 0;
+                font-size: 16px;
+            }
+
             p.work-sub-info {
                 color: $default-tint;
-                font-size: 16px;
+                font-size: 14px;
                 font-family: $source;
                 font-weight: 400;
+                margin-top: 2px;
             }
         }
-        
+
         svg {
             width: 24px;
             float: right;
@@ -132,16 +129,16 @@ section.skill {
 }
 
 ul.work-bullets {
-    margin: 8px 0 0 0;
-    padding-left: 18px;
+    margin: 10px 0 0 0;
+    padding-left: 20px;
     list-style: disc;
 
     li {
         font-family: $source;
         font-size: 15px;
-        color: $default-tint;
+        color: rgba(0,0,0,0.72);
         line-height: 1.55;
-        margin-bottom: 4px;
+        margin-bottom: 6px;
     }
 }
 
