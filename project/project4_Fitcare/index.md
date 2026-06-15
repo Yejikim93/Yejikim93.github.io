@@ -3,6 +3,7 @@ layout: post
 author: "Yeji Kim"
 title:  "Fitcare prototype App"
 subtitle: ""
+published: false
 type: "Compeleted"
 projects: true
 text: true
