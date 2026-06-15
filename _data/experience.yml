@@ -1,39 +1,119 @@
-seventh-place:
-- name: The university of Texas at Austin
-  role: Civil Engineering (Ph.D.)
-  date: 2021. July - Present
-  
-sixth-place:
-- name: University of Seoul
-  role: Research Scientist, Water resource management Lab
-  date: 2021. JAN - Jun
+education:
+  - name: "The University of Texas at Austin"
+    role: "Ph.D. in Civil Engineering (Environmental and Water Resources Engineering)"
+    date: "2021. Jul – 2026 (Expected)"
+    location: "Texas, United States"
 
-fifth-place:
-- name: Polyscape
-  role: Software & IoT developer
-  date: 2020. JAN - JUN
-  
+  - name: "Gwangju Institute of Science and Technology (GIST)"
+    role: "M.S. in Earth Sciences and Environmental Engineering"
+    date: "2017. Mar – 2019. Mar"
+    location: "Gwangju, South Korea"
 
-# - name: Gwangu Institute of Science and Technology (GIST)
-#   role: Researcher for GIST technology institue
-#   date: 2019. SEP - DEC
+  - name: "Ewha Womans University"
+    role: "B.S. in Environmental Science & Engineering"
+    date: "2014. Mar – 2017. Mar"
+    location: "Seoul, South Korea"
 
-forth-place:
-- name: Korea Advanced Institute of Science and Technology (KAIST)
-  role: Researcher 
-  date: 2019. JUN - SEP
+work:
+  - name: "The University of Texas at Austin"
+    role: "Graduate Research Assistant, Future Water Systems Lab (Prof. Matthew Bartos)"
+    date: "2021. Jul – Present"
+    location: "Texas, United States"
+    bullets:
+      - "Hydraulic modeling and probabilistic leak detection in a remote water distribution system (Unalakleet, Alaska) — integrated SCADA API, wireless pressure sensors, and AWS-based data pipeline"
+      - "Real-time sensor quality control and data assimilation in Waller Creek watershed (Austin, TX) — developed EKF-based QC algorithm achieving ROC AUC > 0.99"
+      - "Deployed wireless sensing network (ultrasonic and pressure nodes) for continuous water-level and pressure monitoring"
 
-third-place:
-- name: Fitcare
-  role: Prototype application developer (Android)
-  date: 2019. MAR - JUN
+  - name: "University of Seoul"
+    role: "Research Scientist, Water Resources Management Lab"
+    date: "2021. Jan – Jun"
+    location: "Seoul, South Korea"
+    bullets:
+      - "Evaluated a machine-learning model for chlorophyll-a retrieval using Sentinel-2 from inland and coastal waters"
 
-second-place:
-- name: Gwangu Institute of Science and Technology (GIST)
-  role: Earth & Envrionmental Engineering (M.S.)
-  date: 2017. MAR - 2019. MAR
+  - name: "Polyscape"
+    role: "Data Scientist, Urban Platform Service"
+    date: "2019. Jun – 2020. Dec"
+    location: "Daejeon, South Korea"
+    bullets:
+      - "Built IoT system to collect real-time air quality (PM2.5, PM10) and population data using Raspberry Pi"
+      - "Managed MySQL database server and Django/REST API web server for analysis and visualization"
 
-first-place:
-- name: Ewha womans university
-  role: Environmental Engineering (B.S)
-  date: 2014. MAR - 2017. MAR
+  - name: "Korea Advanced Institute of Science and Technology (KAIST)"
+    role: "Researcher"
+    date: "2019. Jun – Sep"
+    location: "Daejeon, South Korea"
+
+  - name: "Gwangju Institute of Science and Technology (GIST)"
+    role: "Graduate Research Assistant"
+    date: "2017. Feb – 2019. Mar"
+    location: "Gwangju, South Korea"
+    bullets:
+      - "Investigated membrane fouling and performance in RO and FO-based water treatment systems"
+      - "Designed and fabricated membrane spacer geometries using 3D CAD and 3D printing"
+
+publications:
+  first-author:
+    - authors: "Kim, Y., Huang, Y., Bartos, M."
+      year: "2026"
+      title: "From Field Data Collection to Smart Operations: A Digital Twin Framework for Rural Alaska Water Distribution Systems"
+      venue: "ES&T Water"
+      status: "Accepted"
+
+    - authors: "Kim, Y., Oh, J., & Bartos, M."
+      year: "2025"
+      title: "Stormwater digital twin with online quality control detects urban flood hazards under uncertainty"
+      venue: "Sustainable Cities and Society, 105982"
+      status: "Published"
+      link: "https://www.sciencedirect.com/science/article/pii/S2210670724008060"
+
+    - authors: "Kim, Y., Yang, E., Park, H., & Choi, H."
+      year: "2020"
+      title: "Anti-biofouling effect of a thin film nanocomposite membrane with a functionalized-carbon-nanotube-blended polymeric support for the pressure-retarded osmosis process"
+      venue: "RSC Advances, 10(10), 5697–5703"
+      status: "Published"
+
+  co-author:
+    - authors: "Yang, E., Park, S., Kim, Y., Yanar, N., & Choi, H."
+      year: "2023"
+      title: "Fabrication and Investigation of Acid Functionalized CNT Blended Nanocomposite Hollow Fiber Membrane for High Filtration and Antifouling Performance in Ultrafiltration Process"
+      venue: "Membranes, 13(1), 70"
+
+    - authors: "Kim, Y. W., Kim, T., Shin, J., Lee, D. S., Park, Y. S., Kim, Y., & Cha, Y."
+      year: "2022"
+      title: "Validity evaluation of a machine-learning model for chlorophyll a retrieval using Sentinel-2 from inland and coastal waters"
+      venue: "Ecological Indicators, 137, 108737"
+      status: "Published"
+
+    - authors: "Yanar, N., Son, M., Yang, E., Kim, Y., Park, H., Nam, S. E., & Choi, H."
+      year: "2018"
+      title: "Investigation of the performance behavior of a forward osmosis membrane system using various feed spacer materials fabricated by 3D printing technique"
+      venue: "Chemosphere, 202, 708–715"
+
+    - authors: "Munagapati, V. S., Yarramuthi, V., Kim, Y., Lee, K. M., & Kim, D. S."
+      year: "2018"
+      title: "Removal of anionic dyes (Reactive Black 5 and Congo Red) from aqueous solutions using Banana Peel Powder as an adsorbent"
+      venue: "Ecotoxicology and Environmental Safety, 148, 601–607"
+
+  under-review:
+    - authors: "Kim, Y. & Bartos, M."
+      year: "2025"
+      title: "Probabilistic parameter-estimation framework for discovery of pre-existing leaks in water distribution systems"
+      venue: "Water Research"
+      status: "In Preparation"
+
+awards:
+  - name: "Friends of Alec Graduate Student Fellowship"
+    org: "UT Austin"
+    year: "2025"
+
+  - name: "Kolodzey Travel Grant"
+    org: "UT Austin"
+    year: "2024"
+
+teaching:
+  - name: "The University of Texas at Austin"
+    role: "Teaching Assistant — Elements of Hydraulic Engineering (CE 356)"
+    date: "2025"
+    bullets:
+      - "Instructed laboratory sessions for undergraduate hydraulic engineering, training students in HEC-RAS, HEC-HMS, and EPANET"
