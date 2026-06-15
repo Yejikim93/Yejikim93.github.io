@@ -8,7 +8,6 @@ projects: true
 text: true
 ridi: true
 portfolio: true
-post-header: true
 header-img: "img/project8_WDS_monitoring_system.png"
 main-img: "img/project8_WDS_monitoring_system.png"
 role-title: "First Author"

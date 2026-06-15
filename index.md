@@ -6,25 +6,25 @@ subtitle: Water Engineer | Hydraulic modeling, Real-time monitoring, Digital twi
 description: Water Engineer specializing in hydraulic modeling and real-time monitoring of water systems
 ---
 <div class="intro-animation">
-<section class="explanation">
-    <h2 class="intro">
-        I'm 
-        <div class="intro-link">
-            <a class="transition" href="https://scholar.google.com/citations?user=GtDE7SIAAAAJ&hl=en" target="_blank"> 
-            Yeji Kim 
-            </a>,
-            <div class="underline-mask transition"></div>
-            <div class="underline"></div>
-        </div> 
-      </h2>
-        <h2 class="intro">	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<div class="intro-wrapper">
+    <img class="intro-photo" src="{{ site.baseurl }}/img/yejikim_profile.jpg" alt="Yeji Kim" />
+    <section class="explanation">
+        <h2 class="intro">
+            I'm 
+            <div class="intro-link">
+                <a class="transition" href="https://scholar.google.com/citations?user=GtDE7SIAAAAJ&hl=en" target="_blank"> 
+                Yeji Kim 
+                </a>,
+                <div class="underline-mask transition"></div>
+                <div class="underline"></div>
+            </div> 
+        </h2>
+        <h2 class="intro">
             a Water Engineer specializing in
             hydraulic modeling and real-time monitoring of water systems.
         </h2>
-    <br>
-    
-    
-</section>
+    </section>
+</div>
 </div>
 
 ## Research Focus

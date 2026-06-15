@@ -8,7 +8,6 @@ projects: true
 text: true
 ridi: true
 portfolio: true
-post-header: true
 header-img: "img/project1_spacer.PNG"
 main-img: "img/project1_spacer.PNG"
 role-title: "Assistant"

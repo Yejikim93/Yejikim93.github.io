@@ -8,7 +8,6 @@ projects: true
 text: true
 ridi: true
 portfolio: true
-post-header: true
 header-img: "img/project7_Stormwater_DT.png"
 main-img: "img/project7_Stormwater_DT.png"
 role-title: "First Author"

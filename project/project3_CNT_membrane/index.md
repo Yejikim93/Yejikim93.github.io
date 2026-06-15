@@ -8,7 +8,6 @@ projects: true
 text: true
 ridi: true
 portfolio: true
-post-header: true
 header-img: "img/project3_CNT_membrane.png"
 main-img: "img/project3_CNT_membrane.png"
 role-title: "First Author"
