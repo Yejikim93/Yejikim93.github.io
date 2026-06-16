@@ -1,8 +1,8 @@
 ---
 layout: post
 author: "Yeji Kim"
-title:  "Stormwater Digital twin "
-subtitle: "Stormwater digital twin with online quality control detects urban flood hazards under uncertainty"
+title:  "Stormwater Digital Twin with Real-Time Sensor QC"
+subtitle: "EKF-based data assimilation for urban flood forecasting under sensor and model uncertainty"
 type: "Compeleted"
 projects: true
 text: true

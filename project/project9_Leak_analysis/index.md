@@ -1,8 +1,8 @@
 ---
 layout: post
 author: "Yeji Kim"
-title:  "Leak detection in water distribution system"
-subtitle: "Developing Leak detection method validated in pilot-scale water distribution network"
+title:  "Probabilistic Leak Detection in Water Distribution Networks"
+subtitle: "Bayesian framework for leak detection and localization under hydraulic uncertainty"
 type: "On-going"
 projects: true
 text: true

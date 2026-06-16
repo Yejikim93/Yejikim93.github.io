@@ -1,8 +1,8 @@
 ---
 layout: post
 author: "Yeji Kim"
-title:  "Water Distribution System Digital Twin"
-subtitle: "A Digital Twin Framework for Water Distribution Systems in Remote Communities — Unalakleet, Alaska"
+title:  "Digital Twin Framework for Remote Water Distribution Systems"
+subtitle: "End-to-end monitoring and decision-support platform deployed in Unalakleet, Alaska"
 type: "Published"
 projects: true
 text: true
