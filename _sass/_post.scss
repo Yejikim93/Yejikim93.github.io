@@ -63,7 +63,12 @@
         }
     }
     img {
-        margin: 0 auto;
+        display: block;
+        max-width: 720px;
+        width: 100%;
+        height: auto;
+        margin: 28px auto;
+        border-radius: 6px;
     }
            
   }
