@@ -20,7 +20,7 @@ order: 4
 
 **Published:** *<b>Kim, Y.</b>, Yang, E., Park, H., & Choi, H. (2020). RSC Advances, 10(10), 5697–5703.* [DOI →](https://doi.org/10.1039/C9RA08870A)
 
-![Concept](img/concept_figure.png)
+<img class="post-img-lg" src="img/concept_figure.png" alt="Concept" />
 
 # Overview
 
@@ -38,7 +38,7 @@ This work developed and evaluated a thin-film nanocomposite membrane with a **fu
 - Only **~10% water flux loss** during long-term biofouling testing in PRO mode
 - Improvement attributed to **lower surface roughness, higher negative surface charge, and increased hydrophilicity**
 
-![Results](img/paper_result_img1.png)
+<img class="post-img-lg" src="img/paper_result_img1.png" alt="Results" />
 
 # Reference
 

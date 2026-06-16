@@ -22,7 +22,7 @@ order: 9
 
 **Live Dashboard:** [Unalakleet WDS Digital Twin →](http://ec2-34-235-111-72.compute-1.amazonaws.com:5000/)
 
-![Digital Twin Workflow](img/wds_dt.png)
+<img class="post-img-sm" src="img/wds_dt.png" alt="Digital Twin Workflow" />
 
 # Overview
 
@@ -44,7 +44,7 @@ The digital twin reconstructs the hydraulic state with high fidelity:
 | Tank level | **0.022 m** |
 | Loop pressures | 0.198 – 0.393 m |
 
-![Validation results](img/wds_estimation.png)
+<img class="post-img-sm" src="img/wds_estimation.png" alt="Validation results" />
 
 Validated use cases:
 - **Anomaly detection** — diagnosed a pressure-drop event in June 2025
