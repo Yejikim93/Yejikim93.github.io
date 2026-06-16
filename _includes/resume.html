@@ -50,7 +50,24 @@
             <div class="work-info">
                 <p>{{ w.role }}</p>
                 <p class="work-sub-info">{{ w.date }}{% if w.location %} &nbsp;·&nbsp; {{ w.location }}{% endif %}</p>
-                {% if w.bullets %}
+
+                {% if w.subprojects %}
+                <div class="subprojects">
+                    {% for sp in w.subprojects %}
+                    <div class="subproject">
+                        <p class="subproject-name">{{ sp.name }}{% if sp.location %} <span class="subproject-location">— {{ sp.location }}</span>{% endif %}</p>
+                        <ul class="work-bullets">
+                            {% for b in sp.bullets %}
+                            <li>{{ b }}</li>
+                            {% endfor %}
+                        </ul>
+                        {% if sp.link %}
+                        <a class="subproject-link transition" href="{{ sp.link.url }}" target="_blank">{{ sp.link.label }}</a>
+                        {% endif %}
+                    </div>
+                    {% endfor %}
+                </div>
+                {% elsif w.bullets %}
                 <ul class="work-bullets">
                     {% for b in w.bullets %}
                     <li>{{ b }}</li>

@@ -170,6 +170,66 @@ ul.work-bullets {
     }
 }
 
+.subprojects {
+    margin-top: 14px;
+
+    .subproject {
+        margin-bottom: 22px;
+
+        .subproject-name {
+            font-family: $source;
+            font-size: 16px;
+            font-weight: 700;
+            color: rgba(0,0,0,0.85);
+            margin: 0;
+            line-height: 1.4;
+
+            .subproject-location {
+                font-weight: 400;
+                font-style: italic;
+                color: $default-tint;
+                font-size: 14px;
+                margin-left: 2px;
+            }
+        }
+
+        ul.work-bullets {
+            margin-top: 6px;
+        }
+
+        a.subproject-link {
+            display: inline-block;
+            margin-top: 8px;
+            padding: 3px 12px;
+            font-family: $source;
+            font-size: 13px;
+            font-weight: 600;
+            color: $purple;
+            background-color: rgba(0, 200, 255, 0.08);
+            border: 1px solid rgba(0, 200, 255, 0.30);
+            border-radius: 100px;
+            text-decoration: none;
+            letter-spacing: 0.2px;
+        }
+
+        a.subproject-link:after {
+            content: "  \2192";
+            margin-left: 2px;
+        }
+
+        a.subproject-link:hover {
+            background-color: $purple;
+            color: white;
+            border-color: $purple;
+            opacity: 1;
+        }
+    }
+
+    .subproject:last-child {
+        margin-bottom: 0;
+    }
+}
+
 section.publications {
     padding-bottom: 48px;
 

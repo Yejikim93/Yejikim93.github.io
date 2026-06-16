@@ -19,10 +19,25 @@ work:
     role: "Graduate Research Assistant, Future Water Systems Lab (Prof. Matthew Bartos)"
     date: "2021. Jul – Present"
     location: "Texas, United States"
-    bullets:
-      - "Hydraulic modeling and probabilistic leak detection in a remote water distribution system (Unalakleet, Alaska) — integrated SCADA API, wireless pressure sensors, and AWS-based data pipeline"
-      - "Real-time sensor quality control and data assimilation in Waller Creek watershed (Austin, TX) — developed EKF-based QC algorithm achieving ROC AUC > 0.99"
-      - "Deployed wireless sensing network (ultrasonic and pressure nodes) for continuous water-level and pressure monitoring"
+    subprojects:
+      - name: "Hydraulic Modeling & Probabilistic Leak Detection"
+        location: "Water Distribution System — Unalakleet, Alaska"
+        bullets:
+          - "Developed a Python-based hydraulic modeling and data assimilation system using EPANET for network-wide state estimation and monitoring in a remote water distribution system (4 loops, ~740 population)"
+          - "Designed a probabilistic framework for leak detection, localization, and system diagnostics under uncertainty (pipe roughness, demand variability, hydraulic losses)"
+          - "Integrated SCADA API data, wireless pressure sensors, and adaptive sampling within an AWS-based data pipeline, enabling continuous monitoring, anomaly detection, and data-driven operational decision-making (e.g., pump scheduling and valve control)"
+          - "Built a browser-based digital twin dashboard (Flask + Plotly + Leaflet on AWS EC2) for real-time situational awareness"
+        link:
+          label: "Live Dashboard"
+          url: "http://ec2-34-235-111-72.compute-1.amazonaws.com:5000/"
+
+      - name: "Real-Time Sensor Quality Control & Data Assimilation"
+        location: "Waller Creek Watershed — Austin, Texas"
+        bullets:
+          - "Developed a Python-based hydrologic–hydraulic modeling framework using PipeDream solver for unsteady flow simulation and data assimilation in an urban watershed"
+          - "Designed an online quality control (QC) algorithm using Extended Kalman Filter (EKF) to detect and correct sensor faults in streaming data, achieving ROC AUC > 0.99"
+          - "Developed and deployed a wireless sensing network (4 ultrasonic sensor nodes) to collect continuous water level data for real-time model integration"
+          - "Enabled real-time anomaly detection and improved water level prediction, supporting flood alert and monitoring systems"
 
   - name: "University of Seoul"
     role: "Research Scientist, Water Resources Management Lab"
