@@ -1,8 +1,8 @@
 ---
 layout: post
 author: "Yeji Kim"
-title:  "Anti-Biofouling Nanocomposite Membrane for Pressure-Retarded Osmosis"
-subtitle: "Thin-film nanocomposite membrane for high-purity water applications"
+title:  "Anti-Biofouling Membrane for Pressure-Retarded Osmosis"
+subtitle: "Evaluating membrane fouling and performance in PRO process"
 type: "Compeleted"
 projects: true
 text: true

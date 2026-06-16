@@ -2,7 +2,7 @@
 layout: post
 author: "Yeji Kim"
 title:  "Membrane Spacer Optimization for Forward Osmosis"
-subtitle: "Spacer geometry design to reduce fouling and improve permeability in FO water treatment"
+subtitle: "Spacer geometry evaluation for flux improvement and fouling mitigation in osmotic membrane processes"
 type: "Compeleted"
 projects: true
 text: true
