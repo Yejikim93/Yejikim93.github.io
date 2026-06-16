@@ -18,7 +18,7 @@ date: "Jan 2024 – Dec 2025"
 order: 10
 ---
 
-**Status:** Manuscript in preparation — *<b>Kim, Y.</b> & Bartos, M. (2025). Probabilistic parameter-estimation framework for discovery of pre-existing leaks in water distribution systems* (target: **Water Research**).
+**Status:** Manuscript in preparation — *<b>Kim, Y.</b> & Bartos, M. (2026). Probabilistic parameter-estimation framework for discovery of pre-existing leaks in water distribution systems* (target: **Water Research**).
 
 ![WDS testbed](img/project9_WDS_testbed.png)
 
