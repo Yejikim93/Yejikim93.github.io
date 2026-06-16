@@ -75,28 +75,36 @@ publications:
       title: "Anti-biofouling effect of a thin film nanocomposite membrane with a functionalized-carbon-nanotube-blended polymeric support for the pressure-retarded osmosis process"
       venue: "RSC Advances, 10(10), 5697–5703"
       status: "Published"
+      link: "https://doi.org/10.1039/C9RA08870A"
 
   co-author:
     - authors: "Yang, E., Park, S., Kim, Y., Yanar, N., & Choi, H."
       year: "2023"
       title: "Fabrication and Investigation of Acid Functionalized CNT Blended Nanocomposite Hollow Fiber Membrane for High Filtration and Antifouling Performance in Ultrafiltration Process"
       venue: "Membranes, 13(1), 70"
+      status: "Published"
+      link: "https://doi.org/10.3390/membranes13010070"
 
     - authors: "Kim, Y. W., Kim, T., Shin, J., Lee, D. S., Park, Y. S., Kim, Y., & Cha, Y."
       year: "2022"
       title: "Validity evaluation of a machine-learning model for chlorophyll a retrieval using Sentinel-2 from inland and coastal waters"
       venue: "Ecological Indicators, 137, 108737"
       status: "Published"
+      link: "https://doi.org/10.1016/j.ecolind.2022.108737"
 
     - authors: "Yanar, N., Son, M., Yang, E., Kim, Y., Park, H., Nam, S. E., & Choi, H."
       year: "2018"
       title: "Investigation of the performance behavior of a forward osmosis membrane system using various feed spacer materials fabricated by 3D printing technique"
       venue: "Chemosphere, 202, 708–715"
+      status: "Published"
+      link: "https://doi.org/10.1016/j.chemosphere.2018.03.147"
 
     - authors: "Munagapati, V. S., Yarramuthi, V., Kim, Y., Lee, K. M., & Kim, D. S."
       year: "2018"
       title: "Removal of anionic dyes (Reactive Black 5 and Congo Red) from aqueous solutions using Banana Peel Powder as an adsorbent"
       venue: "Ecotoxicology and Environmental Safety, 148, 601–607"
+      status: "Published"
+      link: "https://doi.org/10.1016/j.ecoenv.2017.10.075"
 
   under-review:
     - authors: "Kim, Y. & Bartos, M."
