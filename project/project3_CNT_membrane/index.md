@@ -20,7 +20,7 @@ order: 4
 
 **Published:** *<b>Kim, Y.</b>, Yang, E., Park, H., & Choi, H. (2020). RSC Advances, 10(10), 5697–5703.* [DOI →](https://doi.org/10.1039/C9RA08870A)
 
-<img class="post-img-lg" src="img/concept_figure.png" alt="Concept" />
+<img src="img/concept_figure.png" alt="Concept" />
 
 # Overview
 
