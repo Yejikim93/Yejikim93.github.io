@@ -96,8 +96,12 @@
 
 .catalogue-img {
     display: block;
-    max-width: 100%;
-    margin-top: 20px;
+    width: 100%;
+    max-width: 767px;
+    aspect-ratio: 767 / 399;
+    object-fit: cover;
+    object-position: center;
+    margin: 20px auto 0;
     border-radius: 6px;
 //    box-shadow: 6px 0 40px 8px rgba(0,0,0,.05);
 }
