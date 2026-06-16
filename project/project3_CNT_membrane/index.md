@@ -1,8 +1,8 @@
 ---
 layout: post
 author: "Yeji Kim"
-title:  "Functionalized carbon nanotubes membrane for PRO process"
-subtitle: "Thin film nanocomposite membrane with fCNT blended polymeric support "
+title:  "Anti-Biofouling Nanocomposite Membrane for Pressure-Retarded Osmosis"
+subtitle: "Thin-film nanocomposite membrane for high-purity water applications"
 type: "Compeleted"
 projects: true
 text: true

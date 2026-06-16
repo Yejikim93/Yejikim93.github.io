@@ -1,8 +1,8 @@
 ---
 layout: post
 author: "Yeji Kim"
-title:  "3D printed Spacers"
-subtitle: "Spacer fabricated by 3D printing technique"
+title:  "Membrane Spacer Optimization for Forward Osmosis"
+subtitle: "Spacer geometry design to reduce fouling and improve permeability in FO water treatment"
 type: "Compeleted"
 projects: true
 text: true
