@@ -3,7 +3,7 @@ layout: post
 author: "Yeji Kim"
 title:  "Anti-Biofouling Membrane for Pressure-Retarded Osmosis"
 subtitle: "Evaluating membrane fouling and performance in PRO process"
-type: "Compeleted"
+type: "Completed"
 projects: true
 text: true
 ridi: true
@@ -11,35 +11,35 @@ portfolio: true
 header-img: "img/project3_CNT_membrane.png"
 main-img: "img/project3_CNT_membrane.png"
 role-title: "First Author"
-role-specific: "Fabrication(TFN-CNT), Analysis(SEM, AFM, CLSM)"
+role-specific: "Fabrication, characterization (SEM, AFM, CLSM)"
 team: "Yeji Kim, Eunmok Yang, Hosik Park, Heechul Choi"
-platforms: "3D printer"
-date: "Jan 2018-Jan 2019"
+platforms: ""
+date: "Jan 2018 – Jan 2019"
 order: 4
 ---
-# Abstract
 
-![project3_concept_figure](img/concept_figure.png)
+**Published:** *<b>Kim, Y.</b>, Yang, E., Park, H., & Choi, H. (2020). RSC Advances, 10(10), 5697–5703.* [DOI →](https://doi.org/10.1039/C9RA08870A)
 
-In this study, the anti-biofouling effect of a thin film nanocomposite (TFN) membrane with a functionalized-carbon-nanotube-blended polymeric support layer was analyzed to determine the applicability of this membrane for the pressure-retarded osmosis (PRO) process. The anti-biofouling property of TFN membranes for the PRO process was characterized by SEM, FTIR, and AFM, as well as contact angle measurements and zeta potential analysis of the bottom side of the support layer. The anti-biofouling effect of the fabricated membrane for the PRO process was analyzed by bacterial attachment tests on the bottom surface of the support layer and biofouling tests in a cross-flow operation system in the PRO mode (AL-DS). The TFN membrane with 0.5 wt% fCNTs exhibited enhanced anti-biofouling properties of the bottom surface of the support layer compared to the bare TFC membrane due to the low roughness, high negative surface charge, and hydrophilicity. Compared to the bare TFC membrane, the support layer of the fCNT0.5-TFN membrane exhibited a 35% decrease in bacterial attachment. In a laboratory-scale biofouling test, the water flux of the fCNT0.5-TFN membrane was ∼10% less than that of the bare TFC membrane in the PRO mode.
+![Concept](img/concept_figure.png)
 
-# Result
+# Overview
 
-### AFM images showing the support layer roughness of the fabricated TFN membranes:111 (a) CNT0, (b) CNT0.5, (c) CNT1, (d) CNT2
-![project3_concept_figure](img/contact_angle_img.JPG)
+This work developed and evaluated a thin-film nanocomposite membrane with a **functionalized-carbon-nanotube-blended support layer** to mitigate biofouling in the pressure-retarded osmosis (PRO) process — a critical issue limiting long-term operation of osmotic membrane systems.
 
-<br>
-<br>
+# Approach
 
-### Contact angle measurement of the support layer of the fabricated membrane.&Comparison of the biofouling flux decline of the bare TFC membrane and CNT0.5 TFN membrane in the PRO mode.
-![project3_concept_figure](img/paper_result_img1.png)
-<br>
-<br>
+- Engineered the support-layer composition to control surface roughness, charge, and hydrophilicity
+- Characterized membrane surface via **SEM, FTIR, AFM, contact angle, and zeta potential** measurements
+- Tested membrane performance under cross-flow PRO mode (AL-DS) with bacterial attachment and biofouling assays
 
-### Orthogonal view of the confocal laser scanning microscopy(CLSM) image of the biofouled layers on CNT0/CNT0.5 membrane in the PRO mode: (a and b) CNT0 membrane/(c and d) CNT0.5 membrane and (a and c) live bacteria on membrane/(b and d) dead bacteria on the membrane.
-![project3_concept_figure](img/paper_result_img2.png)
+# Key Findings
 
+- **~35% reduction** in bacterial attachment on the modified membrane vs. the bare TFC reference
+- Only **~10% water flux loss** during long-term biofouling testing in PRO mode
+- Improvement attributed to **lower surface roughness, higher negative surface charge, and increased hydrophilicity**
 
-## Reference:
-[https://pubs.rsc.org/en/content/articlelanding/2020/ra/c9ra08870a#!divAbstract](https://pubs.rsc.org/en/content/articlelanding/2020/ra/c9ra08870a#!divAbstract)
+![Results](img/paper_result_img1.png)
 
+# Reference
+
+**Kim, Y.**, Yang, E., Park, H., & Choi, H. (2020). *Anti-biofouling effect of a thin film nanocomposite membrane with a functionalized-carbon-nanotube-blended polymeric support for the pressure-retarded osmosis process.* **RSC Advances**, 10(10), 5697–5703. [https://doi.org/10.1039/C9RA08870A](https://doi.org/10.1039/C9RA08870A)

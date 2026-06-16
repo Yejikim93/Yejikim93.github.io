@@ -3,7 +3,7 @@ layout: post
 author: "Yeji Kim"
 title:  "Stormwater Digital Twin with Real-Time Sensor QC"
 subtitle: "EKF-based data assimilation for urban flood forecasting under sensor and model uncertainty"
-type: "Compeleted"
+type: "Published"
 projects: true
 text: true
 ridi: true
@@ -13,21 +13,34 @@ main-img: "img/project7_Stormwater_DT.png"
 role-title: "First Author"
 role-specific: 
 team: "Yeji Kim, Jeil Oh, Matthew Bartos"
-platforms: ""
-date: "Jun 2022- Dec 2023"
+platforms: "Python, PipeDream, Extended Kalman Filter"
+date: "Jun 2022 – Dec 2023"
 order: 8
 ---
 
-# Stormwater Digital twin 
-## Stormwater digital twin with online quality control detects urban flood hazards under uncertainty
-![project7_Stormwater_DT](img/project7_Stormwater_DT.png)
-# Abstract 
-Urban drainage systems face increased floods and combined sewer overflows due to climate change and population growth. To manage these hazards, cities are seeking stormwater digital twins that integrate sensor data with hydraulic models for real-time response. However, these efforts are complicated by unreliable sensor data, imperfect hydrologic models, and inaccurate rainfall forecasts. To address these issues, we introduce a stormwater digital twin system that uses online data assimilation to estimate stormwater depths and discharges under sensor and model uncertainty. We first derive a novel state estimation scheme based on Extended Kalman Filtering that fuses sensor data into a hydraulic model while simultaneously detecting and removing faulty measurements. The system’s accuracy is evaluated through a long-term deployment in Austin’s flood-prone Waller Creek watershed. The digital twin model demonstrates enhanced accuracy in estimating stormwater depths at ungauged locations and delivers more accurate near-term forecasts. Moreover, it effectively identifies and removes sensor faults from streaming data, achieving a Receiver Operating Characteristic Area Under the Curve (ROC AUC) of over 0.99 and significantly reducing the potential for false flood alarms. This study provides a complete software implementation, offering water managers a reliable framework for real-time monitoring, rapid flood response, predictive maintenance, and active control of sewer systems.
+**Published:** *<b>Kim, Y.</b>, Oh, J., & Bartos, M. (2025). Sustainable Cities and Society, 105982.* [DOI →](https://doi.org/10.1016/j.scs.2024.105982)
 
-# Results
+![Concept](img/project7_Stormwater_DT.png)
 
-The digital twin model excels in both rejecting sensor faults and improving stormwater model accuracy. Here, the digital twin model refers to the hydraulic-hydrologic model with data assimilation, while the base model refers to the same model without data assimilation. First, while the raw sensor data exhibits multiple faults that would otherwise register as false alarms, the digital twin model filters these outliers, producing continuous estimates of the water depth in the creek. Moreover, while the base model tends to overpredict peak depths, the digital twin model rejects these overestimates by incorporating the depth sensor data into the final estimate. In general, the digital twin output mediates between the model estimates and sensor measurements, producing an output that is consistent with both data sources. 
-![project7_Stormwater_DT](img/project7_Stormwater_DT_results.png)
+# Overview
+
+Urban drainage systems face growing flood hazards from climate change, while existing monitoring is complicated by **unreliable sensor data** and **imperfect hydrologic models**. This work introduces a **stormwater digital twin** that fuses real-time sensor data with a hydraulic-hydrologic model to estimate water depths and discharges under sensor and model uncertainty.
+
+# Approach
+
+- Developed a novel **Extended Kalman Filter (EKF)** state estimation scheme that simultaneously assimilates sensor data and detects faulty measurements
+- Long-term real-world deployment in **Austin's Waller Creek watershed**
+- Open-source Python software implementation enabling real-time monitoring and active control
+
+# Key Results
+
+- **ROC AUC > 0.99** for sensor fault detection — substantially reducing false flood alarms
+- Improved water-depth estimation at **ungauged locations**
+- More accurate **near-term flood forecasts** compared to a base hydraulic model
+- Provides a complete framework for **rapid flood response, predictive maintenance, and active control** of sewer systems
+
+![Results](img/project7_Stormwater_DT_results.png)
+
 # Reference
 
-[https://www.sciencedirect.com/science/article/pii/S2210670724008060](https://www.sciencedirect.com/science/article/pii/S2210670724008060)
+**Kim, Y.**, Oh, J., & Bartos, M. (2025). *Stormwater digital twin with online quality control detects urban flood hazards under uncertainty.* **Sustainable Cities and Society**, 105982. [https://doi.org/10.1016/j.scs.2024.105982](https://www.sciencedirect.com/science/article/pii/S2210670724008060)

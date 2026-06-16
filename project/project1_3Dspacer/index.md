@@ -3,41 +3,36 @@ layout: post
 author: "Yeji Kim"
 title:  "Membrane Spacer Optimization for Forward Osmosis"
 subtitle: "Spacer geometry evaluation for flux improvement and fouling mitigation in osmotic membrane processes"
-type: "Compeleted"
+type: "Completed"
 projects: true
 text: true
 ridi: true
 portfolio: true
 header-img: "img/project1_spacer.PNG"
 main-img: "img/project1_spacer.PNG"
-role-title: "Assistant"
-role-specific: ""
-team: "Numan Yanar, Moon Son, Eunmok Yang, Yeji Kim, Hosik Park, Seung-Eun Man, Heechul Choi"
-platforms: "3D printer"
-date: "Jan 2017-Jan 2018"
+role-title: "Co-author"
+role-specific: "Spacer fabrication and analysis"
+team: "N. Yanar, M. Son, E. Yang, Y. Kim, H. Park, S. E. Nam, H. Choi"
+platforms: ""
+date: "Jan 2017 – Jan 2018"
 order: 2
 ---
 
-This research was performed using acrylonitrile butadiene styrene (ABS), polypropylene (PP), and natural polylactic acid (PLA) as printing material, and the spacer model was produced using a diamond-shaped feed spacer, with a commercially available product as a reference.
+**Published:** *Yanar, N., Son, M., Yang, E., **Kim, Y.**, Park, H., Nam, S. E., & Choi, H. (2018). Chemosphere, 202, 708–715.* [DOI →](https://doi.org/10.1016/j.chemosphere.2018.03.147)
 
-###  3D spacer model
-![project1_3Dspacer](img/spacer_photo.jpg)
+![Spacer prototype](img/project1_spacer.PNG)
 
-To design the 3D spacer model, Autodesk Meshmixer and Blender were used as CAD software with spacer dimensions of 45 mm × 55 mm × 0.86 mm (34 mil; Fig. 2(a)). 
-The spacer model was designed by using a diamond-shaped commercial membrane feed spacer (made of PP) manufactured by Hydration Technologies Innovation (HTI; Albany, USA) as a reference (Fig. 2(b)).
+# Overview
 
-# Abstract 
-Recently, feed spacer research for improving the performance of a membrane module has adopted three-dimensional (3D) printing technology. This study aims to improve the performance of membrane feed spacers by using various materials and incorporating 3D printing. The samples were fabricated after modeling with 3D computer-aided design (CAD) software to investigate the mechanical strength, water flux, reverse solute flux, and fouling performances. This research was performed using acrylonitrile butadiene styrene (ABS), polypropylene (PP), and natural polylactic acid (PLA) as printing material, and the spacer model was produced using a diamond-shaped feed spacer, with a commercially available product as a reference. The 3D printed samples were initially compared in terms of size and precision with the 3D CAD model, and deviations were observed between the products and the CAD model. Then, the spacers were tested in terms of mechanical strength, water flux, reverse solute flux, and fouling (alginate-based waste water was used as a model foulant). Although there was not much difference among the samples regarding the water flux, better performances than the commercial product were obtained for reverse solute flux and fouling resistance. When comparing the prominent performance of natural PLA with the commercial product, PLA was found to have approximately 10% less fouling (based on foulant volume per unit area and root mean square roughness values), although it showed similar water flux. Thus, another approach has been introduced for using bio-degradable materials for membrane spacers.
+This study evaluated **3D-printed membrane feed spacers** fabricated from three polymers (ABS, PP, natural PLA) for forward osmosis (FO) membrane modules. Performance was benchmarked against a commercial diamond-shaped spacer to assess feasibility of customizable, biodegradable alternatives for membrane separation systems.
 
-# Result
+# Key Findings
 
-### i. Water flux and reverse solute flux comparison  ii. RSFS values for the following spacers  b) Fouling-dependent water flux decrease of the commercial membrane using the following spacers
-![project1_3Dspacer](img/spacer_img1.JPG)
-<br>
-<br>
-### a) High-resolution stereo fluorescence microscope images of the following spacers b) A thickness comparison of the CAD Model and scanning electron microscope images of the following spacers
-![project1_3Dspacer](img/spacer_img2.JPG)
+- **PLA spacers achieved ~10% less fouling** than the commercial reference (foulant volume per unit area, RMS roughness)
+- PLA showed the highest **yield strength (0.433 MPa)** among tested materials
+- All 3D-printed samples matched commercial water flux and improved **reverse solute flux** and **fouling resistance**
+- Demonstrated feasibility of **biodegradable spacer materials** for sustainable membrane operations
 
-## Reference 
+# Reference
 
-[https://www.sciencedirect.com/science/article/pii/S0045653518305666](https://www.sciencedirect.com/science/article/pii/S0045653518305666)
+Yanar, N. et al. (2018). *Investigation of the performance behavior of a forward osmosis membrane system using various feed spacer materials fabricated by 3D printing technique.* **Chemosphere**, 202, 708–715. [https://doi.org/10.1016/j.chemosphere.2018.03.147](https://doi.org/10.1016/j.chemosphere.2018.03.147)
