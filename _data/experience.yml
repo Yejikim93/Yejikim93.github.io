@@ -38,6 +38,9 @@ work:
           - "Designed an online quality control (QC) algorithm using Extended Kalman Filter (EKF) to detect and correct sensor faults in streaming data, achieving ROC AUC > 0.99"
           - "Developed and deployed a wireless sensing network (4 ultrasonic sensor nodes) to collect continuous water level data for real-time model integration"
           - "Enabled real-time anomaly detection and improved water level prediction, supporting flood alert and monitoring systems"
+        link:
+          label: "Live Dashboard"
+          url: "http://ec2-100-31-138-57.compute-1.amazonaws.com:5000/"
 
   - name: "University of Seoul"
     role: "Research Scientist, Water Resources Management Lab"
