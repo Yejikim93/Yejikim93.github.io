@@ -20,6 +20,8 @@ order: 8
 
 **Published:** *<b>Kim, Y.</b>, Oh, J., & Bartos, M. (2025). Sustainable Cities and Society, 105982.* [DOI →](https://doi.org/10.1016/j.scs.2024.105982)
 
+**Live Dashboard:** [Waller Creek Stormwater Digital Twin →](http://ec2-100-31-138-57.compute-1.amazonaws.com:5000/)
+
 ![Concept](img/project7_Stormwater_DT.png)
 
 # Overview
