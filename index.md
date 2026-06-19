@@ -25,6 +25,7 @@ description: Water Engineer specializing in hydraulic modeling and real-time mon
             a Water Engineer specializing in
             hydraulic modeling and real-time monitoring of water systems.
         </h2>
+        <p class="intro-cta"><a class="resume-download transition" href="https://www.linkedin.com/in/yeji-kim3005/" target="_blank">Connect on LinkedIn</a></p>
     </section>
 </div>
 </div>
@@ -34,7 +35,5 @@ description: Water Engineer specializing in hydraulic modeling and real-time mon
 Water Engineer specializing in hydraulic modeling and real-time monitoring of water systems. Experienced in integrating SCADA and sensor data to develop data-driven tools for **anomaly detection**, **system diagnostics**, and **operational decision-making** to enhance system performance and reliability.
 
 Currently a Ph.D. candidate in the [Future Water Systems Lab](http://future-water.org/people/) at UT Austin (advisor: Prof. Matthew Bartos).
-
-<p><a class="resume-download transition" href="https://www.linkedin.com/in/yeji-kim3005/" target="_blank">Connect on LinkedIn</a></p>
 
 {% include resume.html %}
