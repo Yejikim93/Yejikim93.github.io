@@ -1,9 +1,5 @@
 .second-label {
     margin: 80px 0 20px 0;
-}
-
-.loading-animation > section:first-child .second-label {
-    margin-top: 40px;
     font-family: $source;
     font-size: 18px;
     font-weight: 600;
@@ -13,6 +9,10 @@
     .label-emoji {
         font-size: 26px;
     }
+}
+
+.loading-animation > section:first-child .second-label {
+    margin-top: 40px;
 }
 
 a.resume-download {
