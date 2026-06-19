@@ -35,4 +35,6 @@ Water Engineer specializing in hydraulic modeling and real-time monitoring of wa
 
 Currently a Ph.D. candidate in the [Future Water Systems Lab](http://future-water.org/people/) at UT Austin (advisor: Prof. Matthew Bartos).
 
+<p><a class="resume-download transition" href="https://www.linkedin.com/in/yeji-kim3005/" target="_blank">Connect on LinkedIn</a></p>
+
 {% include resume.html %}
