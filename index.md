@@ -7,7 +7,9 @@ description: Water Engineer specializing in hydraulic modeling and real-time mon
 ---
 <div class="intro-animation">
 <div class="intro-wrapper">
-    <img class="intro-photo" src="{{ site.baseurl }}/img/yejikim_profile.jpg" alt="Yeji Kim" />
+    <div class="intro-photo-frame">
+        <img class="intro-photo" src="{{ site.baseurl }}/img/yejikim_profile.jpg" alt="Yeji Kim" />
+    </div>
     <section class="explanation">
         <h2 class="intro">
             I'm 
