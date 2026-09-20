@@ -27,7 +27,7 @@ order: 10
 .post img.figure-full { max-width: 96vw; width: 96vw; margin: 36px calc(50% - 48vw); border-radius: 0; }
 </style>
 
-Model-based leak detection compares measured pressure with model-predicted pressure. Parametric error in roughness, base demand, pump curve, and minor losses typically exceeds the leak-induced head change, so the residual is dominated by model error rather than by the leak. The standard remedy is manual calibration of a few coefficients. This framework replaces it with ensemble calibration and marginalization.
+Model-based leak detection and localization compares measured pressure with model-predicted pressure. Parametric error in roughness, base demand, pump curve, and minor losses typically exceeds the leak-induced head change, so the residual is dominated by model error rather than by the leak. The standard remedy is manual calibration of a few coefficients. This framework replaces it with ensemble calibration and marginalization.
 
 Detection, size estimation, and localization are not stages of a workflow. They are the same pipeline instantiated on a different inference target: the prior, the calibrated ensemble, and the marginalization step are shared, and only the likelihood and the decision rule change.
 
