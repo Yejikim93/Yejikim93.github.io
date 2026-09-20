@@ -24,7 +24,7 @@ order: 10
 .post thead th { border-top: none; border-bottom: 2px solid #333; font-weight: 700; }
 .post tbody tr td:first-child { white-space: nowrap; color: #666; }
 .post code { background: #f4f4f4; padding: 2px 6px; border-radius: 3px; font-size: 14px; }
-.post img.figure-full { max-width: 96vw; width: 96vw; margin: 36px calc(50% - 48vw); border-radius: 0; }
+.post img.figure-full { max-width: 100%; width: 100%; margin: 32px 0; }
 </style>
 
 Model-based leak detection and localization compares measured pressure with model-predicted pressure. Parametric error in roughness, base demand, pump curve, and minor losses typically exceeds the leak-induced head change, so the residual is dominated by model error rather than by the leak. Conventional practice is to calibrate a few coefficients by hand. This framework replaces that step with ensemble calibration and marginalization.
