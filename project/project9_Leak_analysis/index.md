@@ -24,13 +24,14 @@ order: 10
 .post thead th { border-top: none; border-bottom: 2px solid #333; font-weight: 700; }
 .post tbody tr td:first-child { white-space: nowrap; color: #666; }
 .post code { background: #f4f4f4; padding: 2px 6px; border-radius: 3px; font-size: 14px; }
+.post img.figure-full { max-width: 96vw; width: 96vw; margin: 36px calc(50% - 48vw); border-radius: 0; }
 </style>
 
 Model-based leak detection compares measured pressure with model-predicted pressure. Parametric error in roughness, base demand, pump curve, and minor losses typically exceeds the leak-induced head change, so the residual is dominated by model error rather than by the leak. The standard remedy is manual calibration of a few coefficients. This framework replaces it with ensemble calibration and marginalization.
 
 Detection, size estimation, and localization are not stages of a workflow. They are the same pipeline instantiated on a different inference target: the prior, the calibrated ensemble, and the marginalization step are shared, and only the likelihood and the decision rule change.
 
-<img class="post-img-lg" src="img/project9_method_framework.png" alt="Five stages: priors on the uncertain parameters, an ensemble refined by population Monte Carlo, a likelihood under each draw, marginalization over the ensemble, and a decision rule. The two rows are the two analyses, sharing every stage but the likelihood and the decision." />
+<img class="figure-full" src="img/project9_method_framework.png" alt="Five stages: priors on the uncertain parameters, an ensemble refined by population Monte Carlo, a likelihood under each draw, marginalization over the ensemble, and a decision rule. The two rows are the two analyses, sharing every stage but the likelihood and the decision." />
 
 # The shared pipeline
 
@@ -63,8 +64,6 @@ Hydraulics are solved with [pipedream](https://github.com/mdbartos/pipedream), w
 # References
 
 - **Kim, Y.** & Bartos, M. *Probabilistic parameter-estimation framework for discovery of pre-existing leaks in water distribution systems.* In preparation (target: Water Research).
-- **Kim, Y.** & Bartos, M. *Leak localization without hand-tuned models: calibrating the hydraulic parameters from pressure and inflow alone.* In preparation.
 - **Kim, Y.** & Bartos, M. (2026). *Uncertainty-Aware Leak Detection and Localization in Water Distribution Networks.* Poster, WEFTEC 2026.
-- Bartos, M. & Kerkez, B. (2021). Pipedream: An interactive digital twin model for natural and urban drainage systems. *Environmental Modelling & Software*, 144, 105120.
 
 Supported by the National Science Foundation under Grant 2220516.
